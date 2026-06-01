@@ -2,3819 +2,6681 @@
     "colors": [
         {
             "color": "darker blue",
-            "hex": "011288"
+            "hex": "011288",
+            "r": 1,
+            "g": 18,
+            "b": 136
         },
         {
             "color": "darker green",
-            "hex": "087804"
+            "hex": "087804",
+            "r": 8,
+            "g": 120,
+            "b": 4
         },
         {
             "color": "green again",
-            "hex": "16d43f"
+            "hex": "16d43f",
+            "r": 22,
+            "g": 212,
+            "b": 63
         },
         {
             "color": "darker purple",
-            "hex": "5f1b6b"
+            "hex": "5f1b6b",
+            "r": 95,
+            "g": 27,
+            "b": 107
         },
         {
             "color": "darker pink",
-            "hex": "c4387f"
+            "hex": "c4387f",
+            "r": 196,
+            "g": 56,
+            "b": 127
         },
         {
             "color": "cloudy blue",
-            "hex": "acc2d9"
+            "hex": "acc2d9",
+            "r": 172,
+            "g": 194,
+            "b": 217
         },
         {
             "color": "dark pastel green",
-            "hex": "56ae57"
+            "hex": "56ae57",
+            "r": 86,
+            "g": 174,
+            "b": 87
         },
         {
             "color": "dust",
-            "hex": "b2996e"
+            "hex": "b2996e",
+            "r": 178,
+            "g": 153,
+            "b": 110
         },
         {
             "color": "electric lime",
-            "hex": "a8ff04"
+            "hex": "a8ff04",
+            "r": 168,
+            "g": 255,
+            "b": 4
         },
         {
             "color": "fresh green",
-            "hex": "69d84f"
+            "hex": "69d84f",
+            "r": 105,
+            "g": 216,
+            "b": 79
         },
         {
             "color": "light eggplant",
-            "hex": "894585"
+            "hex": "894585",
+            "r": 137,
+            "g": 69,
+            "b": 133
         },
         {
             "color": "nasty green",
-            "hex": "70b23f"
+            "hex": "70b23f",
+            "r": 112,
+            "g": 178,
+            "b": 63
         },
         {
             "color": "really light blue",
-            "hex": "d4ffff"
+            "hex": "d4ffff",
+            "r": 212,
+            "g": 255,
+            "b": 255
         },
         {
             "color": "tea",
-            "hex": "65ab7c"
+            "hex": "65ab7c",
+            "r": 101,
+            "g": 171,
+            "b": 124
         },
         {
             "color": "warm purple",
-            "hex": "952e8f"
+            "hex": "952e8f",
+            "r": 149,
+            "g": 46,
+            "b": 143
         },
         {
             "color": "yellowish tan",
-            "hex": "fcfc81"
+            "hex": "fcfc81",
+            "r": 252,
+            "g": 252,
+            "b": 129
         },
         {
             "color": "cement",
-            "hex": "a5a391"
+            "hex": "a5a391",
+            "r": 165,
+            "g": 163,
+            "b": 145
         },
         {
             "color": "dark grass green",
-            "hex": "388004"
+            "hex": "388004",
+            "r": 56,
+            "g": 128,
+            "b": 4
         },
         {
             "color": "dusty teal",
-            "hex": "4c9085"
+            "hex": "4c9085",
+            "r": 76,
+            "g": 144,
+            "b": 133
         },
         {
             "color": "grey teal",
-            "hex": "5e9b8a"
+            "hex": "5e9b8a",
+            "r": 94,
+            "g": 155,
+            "b": 138
         },
         {
             "color": "macaroni and cheese",
-            "hex": "efb435"
+            "hex": "efb435",
+            "r": 239,
+            "g": 180,
+            "b": 53
         },
         {
             "color": "pinkish tan",
-            "hex": "d99b82"
+            "hex": "d99b82",
+            "r": 217,
+            "g": 155,
+            "b": 130
         },
         {
             "color": "spruce",
-            "hex": "0a5f38"
+            "hex": "0a5f38",
+            "r": 10,
+            "g": 95,
+            "b": 56
         },
         {
             "color": "strong blue",
-            "hex": "0c06f7"
+            "hex": "0c06f7",
+            "r": 12,
+            "g": 6,
+            "b": 247
         },
         {
             "color": "toxic green",
-            "hex": "61de2a"
+            "hex": "61de2a",
+            "r": 97,
+            "g": 222,
+            "b": 42
         },
         {
             "color": "windows blue",
-            "hex": "3778bf"
+            "hex": "3778bf",
+            "r": 55,
+            "g": 120,
+            "b": 191
         },
         {
             "color": "blue blue",
-            "hex": "2242c7"
+            "hex": "2242c7",
+            "r": 34,
+            "g": 66,
+            "b": 199
         },
         {
             "color": "blue with a hint of purple",
-            "hex": "533cc6"
+            "hex": "533cc6",
+            "r": 83,
+            "g": 60,
+            "b": 198
         },
         {
             "color": "booger",
-            "hex": "9bb53c"
+            "hex": "9bb53c",
+            "r": 155,
+            "g": 181,
+            "b": 60
         },
         {
             "color": "bright sea green",
-            "hex": "05ffa6"
+            "hex": "05ffa6",
+            "r": 5,
+            "g": 255,
+            "b": 166
         },
         {
             "color": "dark green blue",
-            "hex": "1f6357"
+            "hex": "1f6357",
+            "r": 31,
+            "g": 99,
+            "b": 87
         },
         {
             "color": "deep turquoise",
-            "hex": "017374"
+            "hex": "017374",
+            "r": 1,
+            "g": 115,
+            "b": 116
         },
         {
             "color": "green teal",
-            "hex": "0cb577"
+            "hex": "0cb577",
+            "r": 12,
+            "g": 181,
+            "b": 119
         },
         {
             "color": "strong pink",
-            "hex": "ff0789"
+            "hex": "ff0789",
+            "r": 255,
+            "g": 7,
+            "b": 137
         },
         {
             "color": "bland",
-            "hex": "afa88b"
+            "hex": "afa88b",
+            "r": 175,
+            "g": 168,
+            "b": 139
         },
         {
             "color": "deep aqua",
-            "hex": "08787f"
+            "hex": "08787f",
+            "r": 8,
+            "g": 120,
+            "b": 127
         },
         {
             "color": "lavender pink",
-            "hex": "dd85d7"
+            "hex": "dd85d7",
+            "r": 221,
+            "g": 133,
+            "b": 215
         },
         {
             "color": "light moss green",
-            "hex": "a6c875"
+            "hex": "a6c875",
+            "r": 166,
+            "g": 200,
+            "b": 117
         },
         {
             "color": "light seafoam green",
-            "hex": "a7ffb5"
+            "hex": "a7ffb5",
+            "r": 167,
+            "g": 255,
+            "b": 181
         },
         {
             "color": "olive yellow",
-            "hex": "c2b709"
+            "hex": "c2b709",
+            "r": 194,
+            "g": 183,
+            "b": 9
         },
         {
             "color": "pig pink",
-            "hex": "e78ea5"
+            "hex": "e78ea5",
+            "r": 231,
+            "g": 142,
+            "b": 165
         },
         {
             "color": "deep lilac",
-            "hex": "966ebd"
+            "hex": "966ebd",
+            "r": 150,
+            "g": 110,
+            "b": 189
         },
         {
             "color": "desert",
-            "hex": "ccad60"
+            "hex": "ccad60",
+            "r": 204,
+            "g": 173,
+            "b": 96
         },
         {
             "color": "dusty lavender",
-            "hex": "ac86a8"
+            "hex": "ac86a8",
+            "r": 172,
+            "g": 134,
+            "b": 168
         },
         {
             "color": "purpley grey",
-            "hex": "947e94"
+            "hex": "947e94",
+            "r": 148,
+            "g": 126,
+            "b": 148
         },
         {
             "color": "purply",
-            "hex": "983fb2"
+            "hex": "983fb2",
+            "r": 152,
+            "g": 63,
+            "b": 178
         },
         {
             "color": "candy pink",
-            "hex": "ff63e9"
+            "hex": "ff63e9",
+            "r": 255,
+            "g": 99,
+            "b": 233
         },
         {
             "color": "light pastel green",
-            "hex": "b2fba5"
+            "hex": "b2fba5",
+            "r": 178,
+            "g": 251,
+            "b": 165
         },
         {
             "color": "boring green",
-            "hex": "63b365"
+            "hex": "63b365",
+            "r": 99,
+            "g": 179,
+            "b": 101
         },
         {
             "color": "kiwi green",
-            "hex": "8ee53f"
+            "hex": "8ee53f",
+            "r": 142,
+            "g": 229,
+            "b": 63
         },
         {
             "color": "light grey green",
-            "hex": "b7e1a1"
+            "hex": "b7e1a1",
+            "r": 183,
+            "g": 225,
+            "b": 161
         },
         {
             "color": "orange pink",
-            "hex": "ff6f52"
+            "hex": "ff6f52",
+            "r": 255,
+            "g": 111,
+            "b": 82
         },
         {
             "color": "tea green",
-            "hex": "bdf8a3"
+            "hex": "bdf8a3",
+            "r": 189,
+            "g": 248,
+            "b": 163
         },
         {
             "color": "very light brown",
-            "hex": "d3b683"
+            "hex": "d3b683",
+            "r": 211,
+            "g": 182,
+            "b": 131
         },
         {
             "color": "egg shell",
-            "hex": "fffcc4"
+            "hex": "fffcc4",
+            "r": 255,
+            "g": 252,
+            "b": 196
         },
         {
             "color": "eggplant purple",
-            "hex": "430541"
+            "hex": "430541",
+            "r": 67,
+            "g": 5,
+            "b": 65
         },
         {
             "color": "powder pink",
-            "hex": "ffb2d0"
+            "hex": "ffb2d0",
+            "r": 255,
+            "g": 178,
+            "b": 208
         },
         {
             "color": "reddish grey",
-            "hex": "997570"
+            "hex": "997570",
+            "r": 153,
+            "g": 117,
+            "b": 112
         },
         {
             "color": "baby shit brown",
-            "hex": "ad900d"
+            "hex": "ad900d",
+            "r": 173,
+            "g": 144,
+            "b": 13
         },
         {
             "color": "liliac",
-            "hex": "c48efd"
+            "hex": "c48efd",
+            "r": 196,
+            "g": 142,
+            "b": 253
         },
         {
             "color": "stormy blue",
-            "hex": "507b9c"
+            "hex": "507b9c",
+            "r": 80,
+            "g": 123,
+            "b": 156
         },
         {
             "color": "ugly brown",
-            "hex": "7d7103"
+            "hex": "7d7103",
+            "r": 125,
+            "g": 113,
+            "b": 3
         },
         {
             "color": "custard",
-            "hex": "fffd78"
+            "hex": "fffd78",
+            "r": 255,
+            "g": 253,
+            "b": 120
         },
         {
             "color": "darkish pink",
-            "hex": "da467d"
+            "hex": "da467d",
+            "r": 218,
+            "g": 70,
+            "b": 125
         },
         {
             "color": "deep brown",
-            "hex": "410200"
+            "hex": "410200",
+            "r": 65,
+            "g": 2,
+            "b": 0
         },
         {
             "color": "greenish beige",
-            "hex": "c9d179"
+            "hex": "c9d179",
+            "r": 201,
+            "g": 209,
+            "b": 121
         },
         {
             "color": "manilla",
-            "hex": "fffa86"
+            "hex": "fffa86",
+            "r": 255,
+            "g": 250,
+            "b": 134
         },
         {
             "color": "off blue",
-            "hex": "5684ae"
+            "hex": "5684ae",
+            "r": 86,
+            "g": 132,
+            "b": 174
         },
         {
             "color": "battleship grey",
-            "hex": "6b7c85"
+            "hex": "6b7c85",
+            "r": 107,
+            "g": 124,
+            "b": 133
         },
         {
             "color": "browny green",
-            "hex": "6f6c0a"
+            "hex": "6f6c0a",
+            "r": 111,
+            "g": 108,
+            "b": 10
         },
         {
             "color": "bruise",
-            "hex": "7e4071"
+            "hex": "7e4071",
+            "r": 126,
+            "g": 64,
+            "b": 113
         },
         {
             "color": "kelley green",
-            "hex": "009337"
+            "hex": "009337",
+            "r": 0,
+            "g": 147,
+            "b": 55
         },
         {
             "color": "sickly yellow",
-            "hex": "d0e429"
+            "hex": "d0e429",
+            "r": 208,
+            "g": 228,
+            "b": 41
         },
         {
             "color": "sunny yellow",
-            "hex": "fff917"
+            "hex": "fff917",
+            "r": 255,
+            "g": 249,
+            "b": 23
         },
         {
             "color": "azul",
-            "hex": "1d5dec"
+            "hex": "1d5dec",
+            "r": 29,
+            "g": 93,
+            "b": 236
         },
         {
             "color": "darkgreen",
-            "hex": "054907"
+            "hex": "054907",
+            "r": 5,
+            "g": 73,
+            "b": 7
         },
         {
             "color": "green/yellow",
-            "hex": "b5ce08"
+            "hex": "b5ce08",
+            "r": 181,
+            "g": 206,
+            "b": 8
         },
         {
             "color": "lichen",
-            "hex": "8fb67b"
+            "hex": "8fb67b",
+            "r": 143,
+            "g": 182,
+            "b": 123
         },
         {
             "color": "light light green",
-            "hex": "c8ffb0"
+            "hex": "c8ffb0",
+            "r": 200,
+            "g": 255,
+            "b": 176
         },
         {
             "color": "pale gold",
-            "hex": "fdde6c"
+            "hex": "fdde6c",
+            "r": 253,
+            "g": 222,
+            "b": 108
         },
         {
             "color": "sun yellow",
-            "hex": "ffdf22"
+            "hex": "ffdf22",
+            "r": 255,
+            "g": 223,
+            "b": 34
         },
         {
             "color": "tan green",
-            "hex": "a9be70"
+            "hex": "a9be70",
+            "r": 169,
+            "g": 190,
+            "b": 112
         },
         {
             "color": "burple",
-            "hex": "6832e3"
+            "hex": "6832e3",
+            "r": 104,
+            "g": 50,
+            "b": 227
         },
         {
             "color": "butterscotch",
-            "hex": "fdb147"
+            "hex": "fdb147",
+            "r": 253,
+            "g": 177,
+            "b": 71
         },
         {
             "color": "toupe",
-            "hex": "c7ac7d"
+            "hex": "c7ac7d",
+            "r": 199,
+            "g": 172,
+            "b": 125
         },
         {
             "color": "dark cream",
-            "hex": "fff39a"
+            "hex": "fff39a",
+            "r": 255,
+            "g": 243,
+            "b": 154
         },
         {
             "color": "indian red",
-            "hex": "850e04"
+            "hex": "850e04",
+            "r": 133,
+            "g": 14,
+            "b": 4
         },
         {
             "color": "light lavendar",
-            "hex": "efc0fe"
+            "hex": "efc0fe",
+            "r": 239,
+            "g": 192,
+            "b": 254
         },
         {
             "color": "poison green",
-            "hex": "40fd14"
+            "hex": "40fd14",
+            "r": 64,
+            "g": 253,
+            "b": 20
         },
         {
             "color": "baby puke green",
-            "hex": "b6c406"
+            "hex": "b6c406",
+            "r": 182,
+            "g": 196,
+            "b": 6
         },
         {
             "color": "bright yellow green",
-            "hex": "9dff00"
+            "hex": "9dff00",
+            "r": 157,
+            "g": 255,
+            "b": 0
         },
         {
             "color": "charcoal grey",
-            "hex": "3c4142"
+            "hex": "3c4142",
+            "r": 60,
+            "g": 65,
+            "b": 66
         },
         {
             "color": "squash",
-            "hex": "f2ab15"
+            "hex": "f2ab15",
+            "r": 242,
+            "g": 171,
+            "b": 21
         },
         {
             "color": "cinnamon",
-            "hex": "ac4f06"
+            "hex": "ac4f06",
+            "r": 172,
+            "g": 79,
+            "b": 6
         },
         {
             "color": "light pea green",
-            "hex": "c4fe82"
+            "hex": "c4fe82",
+            "r": 196,
+            "g": 254,
+            "b": 130
         },
         {
             "color": "radioactive green",
-            "hex": "2cfa1f"
+            "hex": "2cfa1f",
+            "r": 44,
+            "g": 250,
+            "b": 31
         },
         {
             "color": "raw sienna",
-            "hex": "9a6200"
+            "hex": "9a6200",
+            "r": 154,
+            "g": 98,
+            "b": 0
         },
         {
             "color": "baby purple",
-            "hex": "ca9bf7"
+            "hex": "ca9bf7",
+            "r": 202,
+            "g": 155,
+            "b": 247
         },
         {
             "color": "cocoa",
-            "hex": "875f42"
+            "hex": "875f42",
+            "r": 135,
+            "g": 95,
+            "b": 66
         },
         {
             "color": "light royal blue",
-            "hex": "3a2efe"
+            "hex": "3a2efe",
+            "r": 58,
+            "g": 46,
+            "b": 254
         },
         {
             "color": "orangeish",
-            "hex": "fd8d49"
+            "hex": "fd8d49",
+            "r": 253,
+            "g": 141,
+            "b": 73
         },
         {
             "color": "rust brown",
-            "hex": "8b3103"
+            "hex": "8b3103",
+            "r": 139,
+            "g": 49,
+            "b": 3
         },
         {
             "color": "sand brown",
-            "hex": "cba560"
+            "hex": "cba560",
+            "r": 203,
+            "g": 165,
+            "b": 96
         },
         {
             "color": "swamp",
-            "hex": "698339"
+            "hex": "698339",
+            "r": 105,
+            "g": 131,
+            "b": 57
         },
         {
             "color": "tealish green",
-            "hex": "0cdc73"
+            "hex": "0cdc73",
+            "r": 12,
+            "g": 220,
+            "b": 115
         },
         {
             "color": "burnt siena",
-            "hex": "b75203"
+            "hex": "b75203",
+            "r": 183,
+            "g": 82,
+            "b": 3
         },
         {
             "color": "camo",
-            "hex": "7f8f4e"
+            "hex": "7f8f4e",
+            "r": 127,
+            "g": 143,
+            "b": 78
         },
         {
             "color": "dusk blue",
-            "hex": "26538d"
+            "hex": "26538d",
+            "r": 38,
+            "g": 83,
+            "b": 141
         },
         {
             "color": "fern",
-            "hex": "63a950"
+            "hex": "63a950",
+            "r": 99,
+            "g": 169,
+            "b": 80
         },
         {
             "color": "old rose",
-            "hex": "c87f89"
+            "hex": "c87f89",
+            "r": 200,
+            "g": 127,
+            "b": 137
         },
         {
             "color": "pale light green",
-            "hex": "b1fc99"
+            "hex": "b1fc99",
+            "r": 177,
+            "g": 252,
+            "b": 153
         },
         {
             "color": "peachy pink",
-            "hex": "ff9a8a"
+            "hex": "ff9a8a",
+            "r": 255,
+            "g": 154,
+            "b": 138
         },
         {
             "color": "rosy pink",
-            "hex": "f6688e"
+            "hex": "f6688e",
+            "r": 246,
+            "g": 104,
+            "b": 142
         },
         {
             "color": "light bluish green",
-            "hex": "76fda8"
+            "hex": "76fda8",
+            "r": 118,
+            "g": 253,
+            "b": 168
         },
         {
             "color": "light bright green",
-            "hex": "53fe5c"
+            "hex": "53fe5c",
+            "r": 83,
+            "g": 254,
+            "b": 92
         },
         {
             "color": "light neon green",
-            "hex": "4efd54"
+            "hex": "4efd54",
+            "r": 78,
+            "g": 253,
+            "b": 84
         },
         {
             "color": "light seafoam",
-            "hex": "a0febf"
+            "hex": "a0febf",
+            "r": 160,
+            "g": 254,
+            "b": 191
         },
         {
             "color": "tiffany blue",
-            "hex": "7bf2da"
+            "hex": "7bf2da",
+            "r": 123,
+            "g": 242,
+            "b": 218
         },
         {
             "color": "washed out green",
-            "hex": "bcf5a6"
+            "hex": "bcf5a6",
+            "r": 188,
+            "g": 245,
+            "b": 166
         },
         {
             "color": "browny orange",
-            "hex": "ca6b02"
+            "hex": "ca6b02",
+            "r": 202,
+            "g": 107,
+            "b": 2
         },
         {
             "color": "nice blue",
-            "hex": "107ab0"
+            "hex": "107ab0",
+            "r": 16,
+            "g": 122,
+            "b": 176
         },
         {
             "color": "sapphire",
-            "hex": "2138ab"
+            "hex": "2138ab",
+            "r": 33,
+            "g": 56,
+            "b": 171
         },
         {
             "color": "greyish teal",
-            "hex": "719f91"
+            "hex": "719f91",
+            "r": 113,
+            "g": 159,
+            "b": 145
         },
         {
             "color": "orangey yellow",
-            "hex": "fdb915"
+            "hex": "fdb915",
+            "r": 253,
+            "g": 185,
+            "b": 21
         },
         {
             "color": "parchment",
-            "hex": "fefcaf"
+            "hex": "fefcaf",
+            "r": 254,
+            "g": 252,
+            "b": 175
         },
         {
             "color": "straw",
-            "hex": "fcf679"
+            "hex": "fcf679",
+            "r": 252,
+            "g": 246,
+            "b": 121
         },
         {
             "color": "very dark brown",
-            "hex": "1d0200"
+            "hex": "1d0200",
+            "r": 29,
+            "g": 2,
+            "b": 0
         },
         {
             "color": "terracota",
-            "hex": "cb6843"
+            "hex": "cb6843",
+            "r": 203,
+            "g": 104,
+            "b": 67
         },
         {
             "color": "ugly blue",
-            "hex": "31668a"
+            "hex": "31668a",
+            "r": 49,
+            "g": 102,
+            "b": 138
         },
         {
             "color": "clear blue",
-            "hex": "247afd"
+            "hex": "247afd",
+            "r": 36,
+            "g": 122,
+            "b": 253
         },
         {
             "color": "creme",
-            "hex": "ffffb6"
+            "hex": "ffffb6",
+            "r": 255,
+            "g": 255,
+            "b": 182
         },
         {
             "color": "foam green",
-            "hex": "90fda9"
+            "hex": "90fda9",
+            "r": 144,
+            "g": 253,
+            "b": 169
         },
         {
             "color": "grey/green",
-            "hex": "86a17d"
+            "hex": "86a17d",
+            "r": 134,
+            "g": 161,
+            "b": 125
         },
         {
             "color": "light gold",
-            "hex": "fddc5c"
+            "hex": "fddc5c",
+            "r": 253,
+            "g": 220,
+            "b": 92
         },
         {
             "color": "seafoam blue",
-            "hex": "78d1b6"
+            "hex": "78d1b6",
+            "r": 120,
+            "g": 209,
+            "b": 182
         },
         {
             "color": "topaz",
-            "hex": "13bbaf"
+            "hex": "13bbaf",
+            "r": 19,
+            "g": 187,
+            "b": 175
         },
         {
             "color": "violet pink",
-            "hex": "fb5ffc"
+            "hex": "fb5ffc",
+            "r": 251,
+            "g": 95,
+            "b": 252
         },
         {
             "color": "wintergreen",
-            "hex": "20f986"
+            "hex": "20f986",
+            "r": 32,
+            "g": 249,
+            "b": 134
         },
         {
             "color": "yellow tan",
-            "hex": "ffe36e"
+            "hex": "ffe36e",
+            "r": 255,
+            "g": 227,
+            "b": 110
         },
         {
             "color": "dark fuchsia",
-            "hex": "9d0759"
+            "hex": "9d0759",
+            "r": 157,
+            "g": 7,
+            "b": 89
         },
         {
             "color": "indigo blue",
-            "hex": "3a18b1"
+            "hex": "3a18b1",
+            "r": 58,
+            "g": 24,
+            "b": 177
         },
         {
             "color": "light yellowish green",
-            "hex": "c2ff89"
+            "hex": "c2ff89",
+            "r": 194,
+            "g": 255,
+            "b": 137
         },
         {
             "color": "pale magenta",
-            "hex": "d767ad"
+            "hex": "d767ad",
+            "r": 215,
+            "g": 103,
+            "b": 173
         },
         {
             "color": "rich purple",
-            "hex": "720058"
+            "hex": "720058",
+            "r": 114,
+            "g": 0,
+            "b": 88
         },
         {
             "color": "sunflower yellow",
-            "hex": "ffda03"
+            "hex": "ffda03",
+            "r": 255,
+            "g": 218,
+            "b": 3
         },
         {
             "color": "green/blue",
-            "hex": "01c08d"
+            "hex": "01c08d",
+            "r": 1,
+            "g": 192,
+            "b": 141
         },
         {
             "color": "leather",
-            "hex": "ac7434"
+            "hex": "ac7434",
+            "r": 172,
+            "g": 116,
+            "b": 52
         },
         {
             "color": "racing green",
-            "hex": "014600"
+            "hex": "014600",
+            "r": 1,
+            "g": 70,
+            "b": 0
         },
         {
             "color": "vivid purple",
-            "hex": "9900fa"
+            "hex": "9900fa",
+            "r": 153,
+            "g": 0,
+            "b": 250
         },
         {
             "color": "dark royal blue",
-            "hex": "02066f"
+            "hex": "02066f",
+            "r": 2,
+            "g": 6,
+            "b": 111
         },
         {
             "color": "hazel",
-            "hex": "8e7618"
+            "hex": "8e7618",
+            "r": 142,
+            "g": 118,
+            "b": 24
         },
         {
             "color": "muted pink",
-            "hex": "d1768f"
+            "hex": "d1768f",
+            "r": 209,
+            "g": 118,
+            "b": 143
         },
         {
             "color": "booger green",
-            "hex": "96b403"
+            "hex": "96b403",
+            "r": 150,
+            "g": 180,
+            "b": 3
         },
         {
             "color": "canary",
-            "hex": "fdff63"
+            "hex": "fdff63",
+            "r": 253,
+            "g": 255,
+            "b": 99
         },
         {
             "color": "cool grey",
-            "hex": "95a3a6"
+            "hex": "95a3a6",
+            "r": 149,
+            "g": 163,
+            "b": 166
         },
         {
             "color": "dark taupe",
-            "hex": "7f684e"
+            "hex": "7f684e",
+            "r": 127,
+            "g": 104,
+            "b": 78
         },
         {
             "color": "darkish purple",
-            "hex": "751973"
+            "hex": "751973",
+            "r": 117,
+            "g": 25,
+            "b": 115
         },
         {
             "color": "true green",
-            "hex": "089404"
+            "hex": "089404",
+            "r": 8,
+            "g": 148,
+            "b": 4
         },
         {
             "color": "coral pink",
-            "hex": "ff6163"
+            "hex": "ff6163",
+            "r": 255,
+            "g": 97,
+            "b": 99
         },
         {
             "color": "dark sage",
-            "hex": "598556"
+            "hex": "598556",
+            "r": 89,
+            "g": 133,
+            "b": 86
         },
         {
             "color": "dark slate blue",
-            "hex": "214761"
+            "hex": "214761",
+            "r": 33,
+            "g": 71,
+            "b": 97
         },
         {
             "color": "flat blue",
-            "hex": "3c73a8"
+            "hex": "3c73a8",
+            "r": 60,
+            "g": 115,
+            "b": 168
         },
         {
             "color": "mushroom",
-            "hex": "ba9e88"
+            "hex": "ba9e88",
+            "r": 186,
+            "g": 158,
+            "b": 136
         },
         {
             "color": "rich blue",
-            "hex": "021bf9"
+            "hex": "021bf9",
+            "r": 2,
+            "g": 27,
+            "b": 249
         },
         {
             "color": "dirty purple",
-            "hex": "734a65"
+            "hex": "734a65",
+            "r": 115,
+            "g": 74,
+            "b": 101
         },
         {
             "color": "greenblue",
-            "hex": "23c48b"
+            "hex": "23c48b",
+            "r": 35,
+            "g": 196,
+            "b": 139
         },
         {
             "color": "icky green",
-            "hex": "8fae22"
+            "hex": "8fae22",
+            "r": 143,
+            "g": 174,
+            "b": 34
         },
         {
             "color": "light khaki",
-            "hex": "e6f2a2"
+            "hex": "e6f2a2",
+            "r": 230,
+            "g": 242,
+            "b": 162
         },
         {
             "color": "warm blue",
-            "hex": "4b57db"
+            "hex": "4b57db",
+            "r": 75,
+            "g": 87,
+            "b": 219
         },
         {
             "color": "dark hot pink",
-            "hex": "d90166"
+            "hex": "d90166",
+            "r": 217,
+            "g": 1,
+            "b": 102
         },
         {
             "color": "deep sea blue",
-            "hex": "015482"
+            "hex": "015482",
+            "r": 1,
+            "g": 84,
+            "b": 130
         },
         {
             "color": "carmine",
-            "hex": "9d0216"
+            "hex": "9d0216",
+            "r": 157,
+            "g": 2,
+            "b": 22
         },
         {
             "color": "dark yellow green",
-            "hex": "728f02"
+            "hex": "728f02",
+            "r": 114,
+            "g": 143,
+            "b": 2
         },
         {
             "color": "pale peach",
-            "hex": "ffe5ad"
+            "hex": "ffe5ad",
+            "r": 255,
+            "g": 229,
+            "b": 173
         },
         {
             "color": "plum purple",
-            "hex": "4e0550"
+            "hex": "4e0550",
+            "r": 78,
+            "g": 5,
+            "b": 80
         },
         {
             "color": "golden rod",
-            "hex": "f9bc08"
+            "hex": "f9bc08",
+            "r": 249,
+            "g": 188,
+            "b": 8
         },
         {
             "color": "neon red",
-            "hex": "ff073a"
+            "hex": "ff073a",
+            "r": 255,
+            "g": 7,
+            "b": 58
         },
         {
             "color": "old pink",
-            "hex": "c77986"
+            "hex": "c77986",
+            "r": 199,
+            "g": 121,
+            "b": 134
         },
         {
             "color": "very pale blue",
-            "hex": "d6fffe"
+            "hex": "d6fffe",
+            "r": 214,
+            "g": 255,
+            "b": 254
         },
         {
             "color": "blood orange",
-            "hex": "fe4b03"
+            "hex": "fe4b03",
+            "r": 254,
+            "g": 75,
+            "b": 3
         },
         {
             "color": "grapefruit",
-            "hex": "fd5956"
+            "hex": "fd5956",
+            "r": 253,
+            "g": 89,
+            "b": 86
         },
         {
             "color": "sand yellow",
-            "hex": "fce166"
+            "hex": "fce166",
+            "r": 252,
+            "g": 225,
+            "b": 102
         },
         {
             "color": "clay brown",
-            "hex": "b2713d"
+            "hex": "b2713d",
+            "r": 178,
+            "g": 113,
+            "b": 61
         },
         {
             "color": "dark blue grey",
-            "hex": "1f3b4d"
+            "hex": "1f3b4d",
+            "r": 31,
+            "g": 59,
+            "b": 77
         },
         {
             "color": "flat green",
-            "hex": "699d4c"
+            "hex": "699d4c",
+            "r": 105,
+            "g": 157,
+            "b": 76
         },
         {
             "color": "light green blue",
-            "hex": "56fca2"
+            "hex": "56fca2",
+            "r": 86,
+            "g": 252,
+            "b": 162
         },
         {
             "color": "warm pink",
-            "hex": "fb5581"
+            "hex": "fb5581",
+            "r": 251,
+            "g": 85,
+            "b": 129
         },
         {
             "color": "dodger blue",
-            "hex": "3e82fc"
+            "hex": "3e82fc",
+            "r": 62,
+            "g": 130,
+            "b": 252
         },
         {
             "color": "gross green",
-            "hex": "a0bf16"
+            "hex": "a0bf16",
+            "r": 160,
+            "g": 191,
+            "b": 22
         },
         {
             "color": "ice",
-            "hex": "d6fffa"
+            "hex": "d6fffa",
+            "r": 214,
+            "g": 255,
+            "b": 250
         },
         {
             "color": "metallic blue",
-            "hex": "4f738e"
+            "hex": "4f738e",
+            "r": 79,
+            "g": 115,
+            "b": 142
         },
         {
             "color": "pale salmon",
-            "hex": "ffb19a"
+            "hex": "ffb19a",
+            "r": 255,
+            "g": 177,
+            "b": 154
         },
         {
             "color": "sap green",
-            "hex": "5c8b15"
+            "hex": "5c8b15",
+            "r": 92,
+            "g": 139,
+            "b": 21
         },
         {
             "color": "algae",
-            "hex": "54ac68"
+            "hex": "54ac68",
+            "r": 84,
+            "g": 172,
+            "b": 104
         },
         {
             "color": "bluey grey",
-            "hex": "89a0b0"
+            "hex": "89a0b0",
+            "r": 137,
+            "g": 160,
+            "b": 176
         },
         {
             "color": "greeny grey",
-            "hex": "7ea07a"
+            "hex": "7ea07a",
+            "r": 126,
+            "g": 160,
+            "b": 122
         },
         {
             "color": "highlighter green",
-            "hex": "1bfc06"
+            "hex": "1bfc06",
+            "r": 27,
+            "g": 252,
+            "b": 6
         },
         {
             "color": "light light blue",
-            "hex": "cafffb"
+            "hex": "cafffb",
+            "r": 202,
+            "g": 255,
+            "b": 251
         },
         {
             "color": "light mint",
-            "hex": "b6ffbb"
+            "hex": "b6ffbb",
+            "r": 182,
+            "g": 255,
+            "b": 187
         },
         {
             "color": "raw umber",
-            "hex": "a75e09"
+            "hex": "a75e09",
+            "r": 167,
+            "g": 94,
+            "b": 9
         },
         {
             "color": "vivid blue",
-            "hex": "152eff"
+            "hex": "152eff",
+            "r": 21,
+            "g": 46,
+            "b": 255
         },
         {
             "color": "deep lavender",
-            "hex": "8d5eb7"
+            "hex": "8d5eb7",
+            "r": 141,
+            "g": 94,
+            "b": 183
         },
         {
             "color": "dull teal",
-            "hex": "5f9e8f"
+            "hex": "5f9e8f",
+            "r": 95,
+            "g": 158,
+            "b": 143
         },
         {
             "color": "light greenish blue",
-            "hex": "63f7b4"
+            "hex": "63f7b4",
+            "r": 99,
+            "g": 247,
+            "b": 180
         },
         {
             "color": "mud green",
-            "hex": "606602"
+            "hex": "606602",
+            "r": 96,
+            "g": 102,
+            "b": 2
         },
         {
             "color": "pinky",
-            "hex": "fc86aa"
+            "hex": "fc86aa",
+            "r": 252,
+            "g": 134,
+            "b": 170
         },
         {
             "color": "red wine",
-            "hex": "8c0034"
+            "hex": "8c0034",
+            "r": 140,
+            "g": 0,
+            "b": 52
         },
         {
             "color": "shit green",
-            "hex": "758000"
+            "hex": "758000",
+            "r": 117,
+            "g": 128,
+            "b": 0
         },
         {
             "color": "tan brown",
-            "hex": "ab7e4c"
+            "hex": "ab7e4c",
+            "r": 171,
+            "g": 126,
+            "b": 76
         },
         {
             "color": "darkblue",
-            "hex": "030764"
+            "hex": "030764",
+            "r": 3,
+            "g": 7,
+            "b": 100
         },
         {
             "color": "rosa",
-            "hex": "fe86a4"
+            "hex": "fe86a4",
+            "r": 254,
+            "g": 134,
+            "b": 164
         },
         {
             "color": "lipstick",
-            "hex": "d5174e"
+            "hex": "d5174e",
+            "r": 213,
+            "g": 23,
+            "b": 78
         },
         {
             "color": "pale mauve",
-            "hex": "fed0fc"
+            "hex": "fed0fc",
+            "r": 254,
+            "g": 208,
+            "b": 252
         },
         {
             "color": "claret",
-            "hex": "680018"
+            "hex": "680018",
+            "r": 104,
+            "g": 0,
+            "b": 24
         },
         {
             "color": "dandelion",
-            "hex": "fedf08"
+            "hex": "fedf08",
+            "r": 254,
+            "g": 223,
+            "b": 8
         },
         {
             "color": "orangered",
-            "hex": "fe420f"
+            "hex": "fe420f",
+            "r": 254,
+            "g": 66,
+            "b": 15
         },
         {
             "color": "poop green",
-            "hex": "6f7c00"
+            "hex": "6f7c00",
+            "r": 111,
+            "g": 124,
+            "b": 0
         },
         {
             "color": "ruby",
-            "hex": "ca0147"
+            "hex": "ca0147",
+            "r": 202,
+            "g": 1,
+            "b": 71
         },
         {
             "color": "dark",
-            "hex": "1b2431"
+            "hex": "1b2431",
+            "r": 27,
+            "g": 36,
+            "b": 49
         },
         {
             "color": "greenish turquoise",
-            "hex": "00fbb0"
+            "hex": "00fbb0",
+            "r": 0,
+            "g": 251,
+            "b": 176
         },
         {
             "color": "pastel red",
-            "hex": "db5856"
+            "hex": "db5856",
+            "r": 219,
+            "g": 88,
+            "b": 86
         },
         {
             "color": "piss yellow",
-            "hex": "ddd618"
+            "hex": "ddd618",
+            "r": 221,
+            "g": 214,
+            "b": 24
         },
         {
             "color": "bright cyan",
-            "hex": "41fdfe"
+            "hex": "41fdfe",
+            "r": 65,
+            "g": 253,
+            "b": 254
         },
         {
             "color": "dark coral",
-            "hex": "cf524e"
+            "hex": "cf524e",
+            "r": 207,
+            "g": 82,
+            "b": 78
         },
         {
             "color": "algae green",
-            "hex": "21c36f"
+            "hex": "21c36f",
+            "r": 33,
+            "g": 195,
+            "b": 111
         },
         {
             "color": "darkish red",
-            "hex": "a90308"
+            "hex": "a90308",
+            "r": 169,
+            "g": 3,
+            "b": 8
         },
         {
             "color": "reddy brown",
-            "hex": "6e1005"
+            "hex": "6e1005",
+            "r": 110,
+            "g": 16,
+            "b": 5
         },
         {
             "color": "blush pink",
-            "hex": "fe828c"
+            "hex": "fe828c",
+            "r": 254,
+            "g": 130,
+            "b": 140
         },
         {
             "color": "camouflage green",
-            "hex": "4b6113"
+            "hex": "4b6113",
+            "r": 75,
+            "g": 97,
+            "b": 19
         },
         {
             "color": "lawn green",
-            "hex": "4da409"
+            "hex": "4da409",
+            "r": 77,
+            "g": 164,
+            "b": 9
         },
         {
             "color": "putty",
-            "hex": "beae8a"
+            "hex": "beae8a",
+            "r": 190,
+            "g": 174,
+            "b": 138
         },
         {
             "color": "vibrant blue",
-            "hex": "0339f8"
+            "hex": "0339f8",
+            "r": 3,
+            "g": 57,
+            "b": 248
         },
         {
             "color": "dark sand",
-            "hex": "a88f59"
+            "hex": "a88f59",
+            "r": 168,
+            "g": 143,
+            "b": 89
         },
         {
             "color": "purple/blue",
-            "hex": "5d21d0"
+            "hex": "5d21d0",
+            "r": 93,
+            "g": 33,
+            "b": 208
         },
         {
             "color": "saffron",
-            "hex": "feb209"
+            "hex": "feb209",
+            "r": 254,
+            "g": 178,
+            "b": 9
         },
         {
             "color": "twilight",
-            "hex": "4e518b"
+            "hex": "4e518b",
+            "r": 78,
+            "g": 81,
+            "b": 139
         },
         {
             "color": "warm brown",
-            "hex": "964e02"
+            "hex": "964e02",
+            "r": 150,
+            "g": 78,
+            "b": 2
         },
         {
             "color": "bluegrey",
-            "hex": "85a3b2"
+            "hex": "85a3b2",
+            "r": 133,
+            "g": 163,
+            "b": 178
         },
         {
             "color": "bubble gum pink",
-            "hex": "ff69af"
+            "hex": "ff69af",
+            "r": 255,
+            "g": 105,
+            "b": 175
         },
         {
             "color": "duck egg blue",
-            "hex": "c3fbf4"
+            "hex": "c3fbf4",
+            "r": 195,
+            "g": 251,
+            "b": 244
         },
         {
             "color": "greenish cyan",
-            "hex": "2afeb7"
+            "hex": "2afeb7",
+            "r": 42,
+            "g": 254,
+            "b": 183
         },
         {
             "color": "petrol",
-            "hex": "005f6a"
+            "hex": "005f6a",
+            "r": 0,
+            "g": 95,
+            "b": 106
         },
         {
             "color": "royal",
-            "hex": "0c1793"
+            "hex": "0c1793",
+            "r": 12,
+            "g": 23,
+            "b": 147
         },
         {
             "color": "butter",
-            "hex": "ffff81"
+            "hex": "ffff81",
+            "r": 255,
+            "g": 255,
+            "b": 129
         },
         {
             "color": "dusty orange",
-            "hex": "f0833a"
+            "hex": "f0833a",
+            "r": 240,
+            "g": 131,
+            "b": 58
         },
         {
             "color": "off yellow",
-            "hex": "f1f33f"
+            "hex": "f1f33f",
+            "r": 241,
+            "g": 243,
+            "b": 63
         },
         {
             "color": "pale olive green",
-            "hex": "b1d27b"
+            "hex": "b1d27b",
+            "r": 177,
+            "g": 210,
+            "b": 123
         },
         {
             "color": "orangish",
-            "hex": "fc824a"
+            "hex": "fc824a",
+            "r": 252,
+            "g": 130,
+            "b": 74
         },
         {
             "color": "leaf",
-            "hex": "71aa34"
+            "hex": "71aa34",
+            "r": 113,
+            "g": 170,
+            "b": 52
         },
         {
             "color": "light blue grey",
-            "hex": "b7c9e2"
+            "hex": "b7c9e2",
+            "r": 183,
+            "g": 201,
+            "b": 226
         },
         {
             "color": "dried blood",
-            "hex": "4b0101"
+            "hex": "4b0101",
+            "r": 75,
+            "g": 1,
+            "b": 1
         },
         {
             "color": "lightish purple",
-            "hex": "a552e6"
+            "hex": "a552e6",
+            "r": 165,
+            "g": 82,
+            "b": 230
         },
         {
             "color": "rusty red",
-            "hex": "af2f0d"
+            "hex": "af2f0d",
+            "r": 175,
+            "g": 47,
+            "b": 13
         },
         {
             "color": "lavender blue",
-            "hex": "8b88f8"
+            "hex": "8b88f8",
+            "r": 139,
+            "g": 136,
+            "b": 248
         },
         {
             "color": "light grass green",
-            "hex": "9af764"
+            "hex": "9af764",
+            "r": 154,
+            "g": 247,
+            "b": 100
         },
         {
             "color": "light mint green",
-            "hex": "a6fbb2"
+            "hex": "a6fbb2",
+            "r": 166,
+            "g": 251,
+            "b": 178
         },
         {
             "color": "sunflower",
-            "hex": "ffc512"
+            "hex": "ffc512",
+            "r": 255,
+            "g": 197,
+            "b": 18
         },
         {
             "color": "velvet",
-            "hex": "750851"
+            "hex": "750851",
+            "r": 117,
+            "g": 8,
+            "b": 81
         },
         {
             "color": "brick orange",
-            "hex": "c14a09"
+            "hex": "c14a09",
+            "r": 193,
+            "g": 74,
+            "b": 9
         },
         {
             "color": "lightish red",
-            "hex": "fe2f4a"
+            "hex": "fe2f4a",
+            "r": 254,
+            "g": 47,
+            "b": 74
         },
         {
             "color": "pure blue",
-            "hex": "0203e2"
+            "hex": "0203e2",
+            "r": 2,
+            "g": 3,
+            "b": 226
         },
         {
             "color": "twilight blue",
-            "hex": "0a437a"
+            "hex": "0a437a",
+            "r": 10,
+            "g": 67,
+            "b": 122
         },
         {
             "color": "violet red",
-            "hex": "a50055"
+            "hex": "a50055",
+            "r": 165,
+            "g": 0,
+            "b": 85
         },
         {
             "color": "yellowy brown",
-            "hex": "ae8b0c"
+            "hex": "ae8b0c",
+            "r": 174,
+            "g": 139,
+            "b": 12
         },
         {
             "color": "carnation",
-            "hex": "fd798f"
+            "hex": "fd798f",
+            "r": 253,
+            "g": 121,
+            "b": 143
         },
         {
             "color": "muddy yellow",
-            "hex": "bfac05"
+            "hex": "bfac05",
+            "r": 191,
+            "g": 172,
+            "b": 5
         },
         {
             "color": "dark seafoam green",
-            "hex": "3eaf76"
+            "hex": "3eaf76",
+            "r": 62,
+            "g": 175,
+            "b": 118
         },
         {
             "color": "deep rose",
-            "hex": "c74767"
+            "hex": "c74767",
+            "r": 199,
+            "g": 71,
+            "b": 103
         },
         {
             "color": "dusty red",
-            "hex": "b9484e"
+            "hex": "b9484e",
+            "r": 185,
+            "g": 72,
+            "b": 78
         },
         {
             "color": "grey/blue",
-            "hex": "647d8e"
+            "hex": "647d8e",
+            "r": 100,
+            "g": 125,
+            "b": 142
         },
         {
             "color": "lemon lime",
-            "hex": "bffe28"
+            "hex": "bffe28",
+            "r": 191,
+            "g": 254,
+            "b": 40
         },
         {
             "color": "purple/pink",
-            "hex": "d725de"
+            "hex": "d725de",
+            "r": 215,
+            "g": 37,
+            "b": 222
         },
         {
             "color": "brown yellow",
-            "hex": "b29705"
+            "hex": "b29705",
+            "r": 178,
+            "g": 151,
+            "b": 5
         },
         {
             "color": "purple brown",
-            "hex": "673a3f"
+            "hex": "673a3f",
+            "r": 103,
+            "g": 58,
+            "b": 63
         },
         {
             "color": "wisteria",
-            "hex": "a87dc2"
+            "hex": "a87dc2",
+            "r": 168,
+            "g": 125,
+            "b": 194
         },
         {
             "color": "banana yellow",
-            "hex": "fafe4b"
+            "hex": "fafe4b",
+            "r": 250,
+            "g": 254,
+            "b": 75
         },
         {
             "color": "lipstick red",
-            "hex": "c0022f"
+            "hex": "c0022f",
+            "r": 192,
+            "g": 2,
+            "b": 47
         },
         {
             "color": "water blue",
-            "hex": "0e87cc"
+            "hex": "0e87cc",
+            "r": 14,
+            "g": 135,
+            "b": 204
         },
         {
             "color": "brown grey",
-            "hex": "8d8468"
+            "hex": "8d8468",
+            "r": 141,
+            "g": 132,
+            "b": 104
         },
         {
             "color": "vibrant purple",
-            "hex": "ad03de"
+            "hex": "ad03de",
+            "r": 173,
+            "g": 3,
+            "b": 222
         },
         {
             "color": "baby green",
-            "hex": "8cff9e"
+            "hex": "8cff9e",
+            "r": 140,
+            "g": 255,
+            "b": 158
         },
         {
             "color": "barf green",
-            "hex": "94ac02"
+            "hex": "94ac02",
+            "r": 148,
+            "g": 172,
+            "b": 2
         },
         {
             "color": "eggshell blue",
-            "hex": "c4fff7"
+            "hex": "c4fff7",
+            "r": 196,
+            "g": 255,
+            "b": 247
         },
         {
             "color": "sandy yellow",
-            "hex": "fdee73"
+            "hex": "fdee73",
+            "r": 253,
+            "g": 238,
+            "b": 115
         },
         {
             "color": "cool green",
-            "hex": "33b864"
+            "hex": "33b864",
+            "r": 51,
+            "g": 184,
+            "b": 100
         },
         {
             "color": "pale",
-            "hex": "fff9d0"
+            "hex": "fff9d0",
+            "r": 255,
+            "g": 249,
+            "b": 208
         },
         {
             "color": "blue/grey",
-            "hex": "758da3"
+            "hex": "758da3",
+            "r": 117,
+            "g": 141,
+            "b": 163
         },
         {
             "color": "hot magenta",
-            "hex": "f504c9"
+            "hex": "f504c9",
+            "r": 245,
+            "g": 4,
+            "b": 201
         },
         {
             "color": "greyblue",
-            "hex": "77a1b5"
+            "hex": "77a1b5",
+            "r": 119,
+            "g": 161,
+            "b": 181
         },
         {
             "color": "purpley",
-            "hex": "8756e4"
+            "hex": "8756e4",
+            "r": 135,
+            "g": 86,
+            "b": 228
         },
         {
             "color": "baby shit green",
-            "hex": "889717"
+            "hex": "889717",
+            "r": 136,
+            "g": 151,
+            "b": 23
         },
         {
             "color": "brownish pink",
-            "hex": "c27e79"
+            "hex": "c27e79",
+            "r": 194,
+            "g": 126,
+            "b": 121
         },
         {
             "color": "dark aquamarine",
-            "hex": "017371"
+            "hex": "017371",
+            "r": 1,
+            "g": 115,
+            "b": 113
         },
         {
             "color": "diarrhea",
-            "hex": "9f8303"
+            "hex": "9f8303",
+            "r": 159,
+            "g": 131,
+            "b": 3
         },
         {
             "color": "light mustard",
-            "hex": "f7d560"
+            "hex": "f7d560",
+            "r": 247,
+            "g": 213,
+            "b": 96
         },
         {
             "color": "pale sky blue",
-            "hex": "bdf6fe"
+            "hex": "bdf6fe",
+            "r": 189,
+            "g": 246,
+            "b": 254
         },
         {
             "color": "turtle green",
-            "hex": "75b84f"
+            "hex": "75b84f",
+            "r": 117,
+            "g": 184,
+            "b": 79
         },
         {
             "color": "bright olive",
-            "hex": "9cbb04"
+            "hex": "9cbb04",
+            "r": 156,
+            "g": 187,
+            "b": 4
         },
         {
             "color": "dark grey blue",
-            "hex": "29465b"
+            "hex": "29465b",
+            "r": 41,
+            "g": 70,
+            "b": 91
         },
         {
             "color": "greeny brown",
-            "hex": "696006"
+            "hex": "696006",
+            "r": 105,
+            "g": 96,
+            "b": 6
         },
         {
             "color": "lemon green",
-            "hex": "adf802"
+            "hex": "adf802",
+            "r": 173,
+            "g": 248,
+            "b": 2
         },
         {
             "color": "light periwinkle",
-            "hex": "c1c6fc"
+            "hex": "c1c6fc",
+            "r": 193,
+            "g": 198,
+            "b": 252
         },
         {
             "color": "seaweed green",
-            "hex": "35ad6b"
+            "hex": "35ad6b",
+            "r": 53,
+            "g": 173,
+            "b": 107
         },
         {
             "color": "sunshine yellow",
-            "hex": "fffd37"
+            "hex": "fffd37",
+            "r": 255,
+            "g": 253,
+            "b": 55
         },
         {
             "color": "ugly purple",
-            "hex": "a442a0"
+            "hex": "a442a0",
+            "r": 164,
+            "g": 66,
+            "b": 160
         },
         {
             "color": "medium pink",
-            "hex": "f36196"
+            "hex": "f36196",
+            "r": 243,
+            "g": 97,
+            "b": 150
         },
         {
             "color": "puke brown",
-            "hex": "947706"
+            "hex": "947706",
+            "r": 148,
+            "g": 119,
+            "b": 6
         },
         {
             "color": "very light pink",
-            "hex": "fff4f2"
+            "hex": "fff4f2",
+            "r": 255,
+            "g": 244,
+            "b": 242
         },
         {
             "color": "viridian",
-            "hex": "1e9167"
+            "hex": "1e9167",
+            "r": 30,
+            "g": 145,
+            "b": 103
         },
         {
             "color": "bile",
-            "hex": "b5c306"
+            "hex": "b5c306",
+            "r": 181,
+            "g": 195,
+            "b": 6
         },
         {
             "color": "faded yellow",
-            "hex": "feff7f"
+            "hex": "feff7f",
+            "r": 254,
+            "g": 255,
+            "b": 127
         },
         {
             "color": "very pale green",
-            "hex": "cffdbc"
+            "hex": "cffdbc",
+            "r": 207,
+            "g": 253,
+            "b": 188
         },
         {
             "color": "vibrant green",
-            "hex": "0add08"
+            "hex": "0add08",
+            "r": 10,
+            "g": 221,
+            "b": 8
         },
         {
             "color": "bright lime",
-            "hex": "87fd05"
+            "hex": "87fd05",
+            "r": 135,
+            "g": 253,
+            "b": 5
         },
         {
             "color": "spearmint",
-            "hex": "1ef876"
+            "hex": "1ef876",
+            "r": 30,
+            "g": 248,
+            "b": 118
         },
         {
             "color": "light aquamarine",
-            "hex": "7bfdc7"
+            "hex": "7bfdc7",
+            "r": 123,
+            "g": 253,
+            "b": 199
         },
         {
             "color": "light sage",
-            "hex": "bcecac"
+            "hex": "bcecac",
+            "r": 188,
+            "g": 236,
+            "b": 172
         },
         {
             "color": "yellowgreen",
-            "hex": "bbf90f"
+            "hex": "bbf90f",
+            "r": 187,
+            "g": 249,
+            "b": 15
         },
         {
             "color": "baby poo",
-            "hex": "ab9004"
+            "hex": "ab9004",
+            "r": 171,
+            "g": 144,
+            "b": 4
         },
         {
             "color": "dark seafoam",
-            "hex": "1fb57a"
+            "hex": "1fb57a",
+            "r": 31,
+            "g": 181,
+            "b": 122
         },
         {
             "color": "deep teal",
-            "hex": "00555a"
+            "hex": "00555a",
+            "r": 0,
+            "g": 85,
+            "b": 90
         },
         {
             "color": "heather",
-            "hex": "a484ac"
+            "hex": "a484ac",
+            "r": 164,
+            "g": 132,
+            "b": 172
         },
         {
             "color": "rust orange",
-            "hex": "c45508"
+            "hex": "c45508",
+            "r": 196,
+            "g": 85,
+            "b": 8
         },
         {
             "color": "dirty blue",
-            "hex": "3f829d"
+            "hex": "3f829d",
+            "r": 63,
+            "g": 130,
+            "b": 157
         },
         {
             "color": "fern green",
-            "hex": "548d44"
+            "hex": "548d44",
+            "r": 84,
+            "g": 141,
+            "b": 68
         },
         {
             "color": "bright lilac",
-            "hex": "c95efb"
+            "hex": "c95efb",
+            "r": 201,
+            "g": 94,
+            "b": 251
         },
         {
             "color": "weird green",
-            "hex": "3ae57f"
+            "hex": "3ae57f",
+            "r": 58,
+            "g": 229,
+            "b": 127
         },
         {
             "color": "peacock blue",
-            "hex": "016795"
+            "hex": "016795",
+            "r": 1,
+            "g": 103,
+            "b": 149
         },
         {
             "color": "avocado green",
-            "hex": "87a922"
+            "hex": "87a922",
+            "r": 135,
+            "g": 169,
+            "b": 34
         },
         {
             "color": "faded orange",
-            "hex": "f0944d"
+            "hex": "f0944d",
+            "r": 240,
+            "g": 148,
+            "b": 77
         },
         {
             "color": "grape purple",
-            "hex": "5d1451"
+            "hex": "5d1451",
+            "r": 93,
+            "g": 20,
+            "b": 81
         },
         {
             "color": "hot green",
-            "hex": "25ff29"
+            "hex": "25ff29",
+            "r": 37,
+            "g": 255,
+            "b": 41
         },
         {
             "color": "lime yellow",
-            "hex": "d0fe1d"
+            "hex": "d0fe1d",
+            "r": 208,
+            "g": 254,
+            "b": 29
         },
         {
             "color": "mango",
-            "hex": "ffa62b"
+            "hex": "ffa62b",
+            "r": 255,
+            "g": 166,
+            "b": 43
         },
         {
             "color": "shamrock",
-            "hex": "01b44c"
+            "hex": "01b44c",
+            "r": 1,
+            "g": 180,
+            "b": 76
         },
         {
             "color": "bubblegum",
-            "hex": "ff6cb5"
+            "hex": "ff6cb5",
+            "r": 255,
+            "g": 108,
+            "b": 181
         },
         {
             "color": "purplish brown",
-            "hex": "6b4247"
+            "hex": "6b4247",
+            "r": 107,
+            "g": 66,
+            "b": 71
         },
         {
             "color": "vomit yellow",
-            "hex": "c7c10c"
+            "hex": "c7c10c",
+            "r": 199,
+            "g": 193,
+            "b": 12
         },
         {
             "color": "pale cyan",
-            "hex": "b7fffa"
+            "hex": "b7fffa",
+            "r": 183,
+            "g": 255,
+            "b": 250
         },
         {
             "color": "key lime",
-            "hex": "aeff6e"
+            "hex": "aeff6e",
+            "r": 174,
+            "g": 255,
+            "b": 110
         },
         {
             "color": "tomato red",
-            "hex": "ec2d01"
+            "hex": "ec2d01",
+            "r": 236,
+            "g": 45,
+            "b": 1
         },
         {
             "color": "lightgreen",
-            "hex": "76ff7b"
+            "hex": "76ff7b",
+            "r": 118,
+            "g": 255,
+            "b": 123
         },
         {
             "color": "merlot",
-            "hex": "730039"
+            "hex": "730039",
+            "r": 115,
+            "g": 0,
+            "b": 57
         },
         {
             "color": "night blue",
-            "hex": "040348"
+            "hex": "040348",
+            "r": 4,
+            "g": 3,
+            "b": 72
         },
         {
             "color": "purpleish pink",
-            "hex": "df4ec8"
+            "hex": "df4ec8",
+            "r": 223,
+            "g": 78,
+            "b": 200
         },
         {
             "color": "apple",
-            "hex": "6ecb3c"
+            "hex": "6ecb3c",
+            "r": 110,
+            "g": 203,
+            "b": 60
         },
         {
             "color": "baby poop green",
-            "hex": "8f9805"
+            "hex": "8f9805",
+            "r": 143,
+            "g": 152,
+            "b": 5
         },
         {
             "color": "green apple",
-            "hex": "5edc1f"
+            "hex": "5edc1f",
+            "r": 94,
+            "g": 220,
+            "b": 31
         },
         {
             "color": "heliotrope",
-            "hex": "d94ff5"
+            "hex": "d94ff5",
+            "r": 217,
+            "g": 79,
+            "b": 245
         },
         {
             "color": "yellow/green",
-            "hex": "c8fd3d"
+            "hex": "c8fd3d",
+            "r": 200,
+            "g": 253,
+            "b": 61
         },
         {
             "color": "almost black",
-            "hex": "070d0d"
+            "hex": "070d0d",
+            "r": 7,
+            "g": 13,
+            "b": 13
         },
         {
             "color": "cool blue",
-            "hex": "4984b8"
+            "hex": "4984b8",
+            "r": 73,
+            "g": 132,
+            "b": 184
         },
         {
             "color": "leafy green",
-            "hex": "51b73b"
+            "hex": "51b73b",
+            "r": 81,
+            "g": 183,
+            "b": 59
         },
         {
             "color": "mustard brown",
-            "hex": "ac7e04"
+            "hex": "ac7e04",
+            "r": 172,
+            "g": 126,
+            "b": 4
         },
         {
             "color": "dusk",
-            "hex": "4e5481"
+            "hex": "4e5481",
+            "r": 78,
+            "g": 84,
+            "b": 129
         },
         {
             "color": "dull brown",
-            "hex": "876e4b"
+            "hex": "876e4b",
+            "r": 135,
+            "g": 110,
+            "b": 75
         },
         {
             "color": "frog green",
-            "hex": "58bc08"
+            "hex": "58bc08",
+            "r": 88,
+            "g": 188,
+            "b": 8
         },
         {
             "color": "vivid green",
-            "hex": "2fef10"
+            "hex": "2fef10",
+            "r": 47,
+            "g": 239,
+            "b": 16
         },
         {
             "color": "bright light green",
-            "hex": "2dfe54"
+            "hex": "2dfe54",
+            "r": 45,
+            "g": 254,
+            "b": 84
         },
         {
             "color": "fluro green",
-            "hex": "0aff02"
+            "hex": "0aff02",
+            "r": 10,
+            "g": 255,
+            "b": 2
         },
         {
             "color": "kiwi",
-            "hex": "9cef43"
+            "hex": "9cef43",
+            "r": 156,
+            "g": 239,
+            "b": 67
         },
         {
             "color": "seaweed",
-            "hex": "18d17b"
+            "hex": "18d17b",
+            "r": 24,
+            "g": 209,
+            "b": 123
         },
         {
             "color": "navy green",
-            "hex": "35530a"
+            "hex": "35530a",
+            "r": 53,
+            "g": 83,
+            "b": 10
         },
         {
             "color": "ultramarine blue",
-            "hex": "1805db"
+            "hex": "1805db",
+            "r": 24,
+            "g": 5,
+            "b": 219
         },
         {
             "color": "iris",
-            "hex": "6258c4"
+            "hex": "6258c4",
+            "r": 98,
+            "g": 88,
+            "b": 196
         },
         {
             "color": "pastel orange",
-            "hex": "ff964f"
+            "hex": "ff964f",
+            "r": 255,
+            "g": 150,
+            "b": 79
         },
         {
             "color": "yellowish orange",
-            "hex": "ffab0f"
+            "hex": "ffab0f",
+            "r": 255,
+            "g": 171,
+            "b": 15
         },
         {
             "color": "perrywinkle",
-            "hex": "8f8ce7"
+            "hex": "8f8ce7",
+            "r": 143,
+            "g": 140,
+            "b": 231
         },
         {
             "color": "tealish",
-            "hex": "24bca8"
+            "hex": "24bca8",
+            "r": 36,
+            "g": 188,
+            "b": 168
         },
         {
             "color": "dark plum",
-            "hex": "3f012c"
+            "hex": "3f012c",
+            "r": 63,
+            "g": 1,
+            "b": 44
         },
         {
             "color": "pear",
-            "hex": "cbf85f"
+            "hex": "cbf85f",
+            "r": 203,
+            "g": 248,
+            "b": 95
         },
         {
             "color": "pinkish orange",
-            "hex": "ff724c"
+            "hex": "ff724c",
+            "r": 255,
+            "g": 114,
+            "b": 76
         },
         {
             "color": "midnight purple",
-            "hex": "280137"
+            "hex": "280137",
+            "r": 40,
+            "g": 1,
+            "b": 55
         },
         {
             "color": "light urple",
-            "hex": "b36ff6"
+            "hex": "b36ff6",
+            "r": 179,
+            "g": 111,
+            "b": 246
         },
         {
             "color": "dark mint",
-            "hex": "48c072"
+            "hex": "48c072",
+            "r": 72,
+            "g": 192,
+            "b": 114
         },
         {
             "color": "greenish tan",
-            "hex": "bccb7a"
+            "hex": "bccb7a",
+            "r": 188,
+            "g": 203,
+            "b": 122
         },
         {
             "color": "light burgundy",
-            "hex": "a8415b"
+            "hex": "a8415b",
+            "r": 168,
+            "g": 65,
+            "b": 91
         },
         {
             "color": "turquoise blue",
-            "hex": "06b1c4"
+            "hex": "06b1c4",
+            "r": 6,
+            "g": 177,
+            "b": 196
         },
         {
             "color": "ugly pink",
-            "hex": "cd7584"
+            "hex": "cd7584",
+            "r": 205,
+            "g": 117,
+            "b": 132
         },
         {
             "color": "sandy",
-            "hex": "f1da7a"
+            "hex": "f1da7a",
+            "r": 241,
+            "g": 218,
+            "b": 122
         },
         {
             "color": "electric pink",
-            "hex": "ff0490"
+            "hex": "ff0490",
+            "r": 255,
+            "g": 4,
+            "b": 144
         },
         {
             "color": "muted purple",
-            "hex": "805b87"
+            "hex": "805b87",
+            "r": 128,
+            "g": 91,
+            "b": 135
         },
         {
             "color": "mid green",
-            "hex": "50a747"
+            "hex": "50a747",
+            "r": 80,
+            "g": 167,
+            "b": 71
         },
         {
             "color": "greyish",
-            "hex": "a8a495"
+            "hex": "a8a495",
+            "r": 168,
+            "g": 164,
+            "b": 149
         },
         {
             "color": "neon yellow",
-            "hex": "cfff04"
+            "hex": "cfff04",
+            "r": 207,
+            "g": 255,
+            "b": 4
         },
         {
             "color": "banana",
-            "hex": "ffff7e"
+            "hex": "ffff7e",
+            "r": 255,
+            "g": 255,
+            "b": 126
         },
         {
             "color": "carnation pink",
-            "hex": "ff7fa7"
+            "hex": "ff7fa7",
+            "r": 255,
+            "g": 127,
+            "b": 167
         },
         {
             "color": "tomato",
-            "hex": "ef4026"
+            "hex": "ef4026",
+            "r": 239,
+            "g": 64,
+            "b": 38
         },
         {
             "color": "sea",
-            "hex": "3c9992"
+            "hex": "3c9992",
+            "r": 60,
+            "g": 153,
+            "b": 146
         },
         {
             "color": "muddy brown",
-            "hex": "886806"
+            "hex": "886806",
+            "r": 136,
+            "g": 104,
+            "b": 6
         },
         {
             "color": "turquoise green",
-            "hex": "04f489"
+            "hex": "04f489",
+            "r": 4,
+            "g": 244,
+            "b": 137
         },
         {
             "color": "buff",
-            "hex": "fef69e"
+            "hex": "fef69e",
+            "r": 254,
+            "g": 246,
+            "b": 158
         },
         {
             "color": "fawn",
-            "hex": "cfaf7b"
+            "hex": "cfaf7b",
+            "r": 207,
+            "g": 175,
+            "b": 123
         },
         {
             "color": "muted blue",
-            "hex": "3b719f"
+            "hex": "3b719f",
+            "r": 59,
+            "g": 113,
+            "b": 159
         },
         {
             "color": "pale rose",
-            "hex": "fdc1c5"
+            "hex": "fdc1c5",
+            "r": 253,
+            "g": 193,
+            "b": 197
         },
         {
             "color": "dark mint green",
-            "hex": "20c073"
+            "hex": "20c073",
+            "r": 32,
+            "g": 192,
+            "b": 115
         },
         {
             "color": "amethyst",
-            "hex": "9b5fc0"
+            "hex": "9b5fc0",
+            "r": 155,
+            "g": 95,
+            "b": 192
         },
         {
             "color": "blue/green",
-            "hex": "0f9b8e"
+            "hex": "0f9b8e",
+            "r": 15,
+            "g": 155,
+            "b": 142
         },
         {
             "color": "chestnut",
-            "hex": "742802"
+            "hex": "742802",
+            "r": 116,
+            "g": 40,
+            "b": 2
         },
         {
             "color": "sick green",
-            "hex": "9db92c"
+            "hex": "9db92c",
+            "r": 157,
+            "g": 185,
+            "b": 44
         },
         {
             "color": "pea",
-            "hex": "a4bf20"
+            "hex": "a4bf20",
+            "r": 164,
+            "g": 191,
+            "b": 32
         },
         {
             "color": "rusty orange",
-            "hex": "cd5909"
+            "hex": "cd5909",
+            "r": 205,
+            "g": 89,
+            "b": 9
         },
         {
             "color": "stone",
-            "hex": "ada587"
+            "hex": "ada587",
+            "r": 173,
+            "g": 165,
+            "b": 135
         },
         {
             "color": "rose red",
-            "hex": "be013c"
+            "hex": "be013c",
+            "r": 190,
+            "g": 1,
+            "b": 60
         },
         {
             "color": "pale aqua",
-            "hex": "b8ffeb"
+            "hex": "b8ffeb",
+            "r": 184,
+            "g": 255,
+            "b": 235
         },
         {
             "color": "deep orange",
-            "hex": "dc4d01"
+            "hex": "dc4d01",
+            "r": 220,
+            "g": 77,
+            "b": 1
         },
         {
             "color": "earth",
-            "hex": "a2653e"
+            "hex": "a2653e",
+            "r": 162,
+            "g": 101,
+            "b": 62
         },
         {
             "color": "mossy green",
-            "hex": "638b27"
+            "hex": "638b27",
+            "r": 99,
+            "g": 139,
+            "b": 39
         },
         {
             "color": "grassy green",
-            "hex": "419c03"
+            "hex": "419c03",
+            "r": 65,
+            "g": 156,
+            "b": 3
         },
         {
             "color": "pale lime green",
-            "hex": "b1ff65"
+            "hex": "b1ff65",
+            "r": 177,
+            "g": 255,
+            "b": 101
         },
         {
             "color": "light grey blue",
-            "hex": "9dbcd4"
+            "hex": "9dbcd4",
+            "r": 157,
+            "g": 188,
+            "b": 212
         },
         {
             "color": "pale grey",
-            "hex": "fdfdfe"
+            "hex": "fdfdfe",
+            "r": 253,
+            "g": 253,
+            "b": 254
         },
         {
             "color": "asparagus",
-            "hex": "77ab56"
+            "hex": "77ab56",
+            "r": 119,
+            "g": 171,
+            "b": 86
         },
         {
             "color": "blueberry",
-            "hex": "464196"
+            "hex": "464196",
+            "r": 70,
+            "g": 65,
+            "b": 150
         },
         {
             "color": "purple red",
-            "hex": "990147"
+            "hex": "990147",
+            "r": 153,
+            "g": 1,
+            "b": 71
         },
         {
             "color": "pale lime",
-            "hex": "befd73"
+            "hex": "befd73",
+            "r": 190,
+            "g": 253,
+            "b": 115
         },
         {
             "color": "greenish teal",
-            "hex": "32bf84"
+            "hex": "32bf84",
+            "r": 50,
+            "g": 191,
+            "b": 132
         },
         {
             "color": "caramel",
-            "hex": "af6f09"
+            "hex": "af6f09",
+            "r": 175,
+            "g": 111,
+            "b": 9
         },
         {
             "color": "deep magenta",
-            "hex": "a0025c"
+            "hex": "a0025c",
+            "r": 160,
+            "g": 2,
+            "b": 92
         },
         {
             "color": "light peach",
-            "hex": "ffd8b1"
+            "hex": "ffd8b1",
+            "r": 255,
+            "g": 216,
+            "b": 177
         },
         {
             "color": "milk chocolate",
-            "hex": "7f4e1e"
+            "hex": "7f4e1e",
+            "r": 127,
+            "g": 78,
+            "b": 30
         },
         {
             "color": "ocher",
-            "hex": "bf9b0c"
+            "hex": "bf9b0c",
+            "r": 191,
+            "g": 155,
+            "b": 12
         },
         {
             "color": "off green",
-            "hex": "6ba353"
+            "hex": "6ba353",
+            "r": 107,
+            "g": 163,
+            "b": 83
         },
         {
             "color": "purply pink",
-            "hex": "f075e6"
+            "hex": "f075e6",
+            "r": 240,
+            "g": 117,
+            "b": 230
         },
         {
             "color": "lightblue",
-            "hex": "7bc8f6"
+            "hex": "7bc8f6",
+            "r": 123,
+            "g": 200,
+            "b": 246
         },
         {
             "color": "dusky blue",
-            "hex": "475f94"
+            "hex": "475f94",
+            "r": 71,
+            "g": 95,
+            "b": 148
         },
         {
             "color": "golden",
-            "hex": "f5bf03"
+            "hex": "f5bf03",
+            "r": 245,
+            "g": 191,
+            "b": 3
         },
         {
             "color": "light beige",
-            "hex": "fffeb6"
+            "hex": "fffeb6",
+            "r": 255,
+            "g": 254,
+            "b": 182
         },
         {
             "color": "butter yellow",
-            "hex": "fffd74"
+            "hex": "fffd74",
+            "r": 255,
+            "g": 253,
+            "b": 116
         },
         {
             "color": "dusky purple",
-            "hex": "895b7b"
+            "hex": "895b7b",
+            "r": 137,
+            "g": 91,
+            "b": 123
         },
         {
             "color": "french blue",
-            "hex": "436bad"
+            "hex": "436bad",
+            "r": 67,
+            "g": 107,
+            "b": 173
         },
         {
             "color": "ugly yellow",
-            "hex": "d0c101"
+            "hex": "d0c101",
+            "r": 208,
+            "g": 193,
+            "b": 1
         },
         {
             "color": "greeny yellow",
-            "hex": "c6f808"
+            "hex": "c6f808",
+            "r": 198,
+            "g": 248,
+            "b": 8
         },
         {
             "color": "orangish red",
-            "hex": "f43605"
+            "hex": "f43605",
+            "r": 244,
+            "g": 54,
+            "b": 5
         },
         {
             "color": "shamrock green",
-            "hex": "02c14d"
+            "hex": "02c14d",
+            "r": 2,
+            "g": 193,
+            "b": 77
         },
         {
             "color": "orangish brown",
-            "hex": "b25f03"
+            "hex": "b25f03",
+            "r": 178,
+            "g": 95,
+            "b": 3
         },
         {
             "color": "tree green",
-            "hex": "2a7e19"
+            "hex": "2a7e19",
+            "r": 42,
+            "g": 126,
+            "b": 25
         },
         {
             "color": "deep violet",
-            "hex": "490648"
+            "hex": "490648",
+            "r": 73,
+            "g": 6,
+            "b": 72
         },
         {
             "color": "gunmetal",
-            "hex": "536267"
+            "hex": "536267",
+            "r": 83,
+            "g": 98,
+            "b": 103
         },
         {
             "color": "blue/purple",
-            "hex": "5a06ef"
+            "hex": "5a06ef",
+            "r": 90,
+            "g": 6,
+            "b": 239
         },
         {
             "color": "cherry",
-            "hex": "cf0234"
+            "hex": "cf0234",
+            "r": 207,
+            "g": 2,
+            "b": 52
         },
         {
             "color": "sandy brown",
-            "hex": "c4a661"
+            "hex": "c4a661",
+            "r": 196,
+            "g": 166,
+            "b": 97
         },
         {
             "color": "warm grey",
-            "hex": "978a84"
+            "hex": "978a84",
+            "r": 151,
+            "g": 138,
+            "b": 132
         },
         {
             "color": "dark indigo",
-            "hex": "1f0954"
+            "hex": "1f0954",
+            "r": 31,
+            "g": 9,
+            "b": 84
         },
         {
             "color": "midnight",
-            "hex": "03012d"
+            "hex": "03012d",
+            "r": 3,
+            "g": 1,
+            "b": 45
         },
         {
             "color": "bluey green",
-            "hex": "2bb179"
+            "hex": "2bb179",
+            "r": 43,
+            "g": 177,
+            "b": 121
         },
         {
             "color": "grey pink",
-            "hex": "c3909b"
+            "hex": "c3909b",
+            "r": 195,
+            "g": 144,
+            "b": 155
         },
         {
             "color": "soft purple",
-            "hex": "a66fb5"
+            "hex": "a66fb5",
+            "r": 166,
+            "g": 111,
+            "b": 181
         },
         {
             "color": "blood",
-            "hex": "770001"
+            "hex": "770001",
+            "r": 119,
+            "g": 0,
+            "b": 1
         },
         {
             "color": "brown red",
-            "hex": "922b05"
+            "hex": "922b05",
+            "r": 146,
+            "g": 43,
+            "b": 5
         },
         {
             "color": "medium grey",
-            "hex": "7d7f7c"
+            "hex": "7d7f7c",
+            "r": 125,
+            "g": 127,
+            "b": 124
         },
         {
             "color": "berry",
-            "hex": "990f4b"
+            "hex": "990f4b",
+            "r": 153,
+            "g": 15,
+            "b": 75
         },
         {
             "color": "poo",
-            "hex": "8f7303"
+            "hex": "8f7303",
+            "r": 143,
+            "g": 115,
+            "b": 3
         },
         {
             "color": "purpley pink",
-            "hex": "c83cb9"
+            "hex": "c83cb9",
+            "r": 200,
+            "g": 60,
+            "b": 185
         },
         {
             "color": "light salmon",
-            "hex": "fea993"
+            "hex": "fea993",
+            "r": 254,
+            "g": 169,
+            "b": 147
         },
         {
             "color": "snot",
-            "hex": "acbb0d"
+            "hex": "acbb0d",
+            "r": 172,
+            "g": 187,
+            "b": 13
         },
         {
             "color": "easter purple",
-            "hex": "c071fe"
+            "hex": "c071fe",
+            "r": 192,
+            "g": 113,
+            "b": 254
         },
         {
             "color": "light yellow green",
-            "hex": "ccfd7f"
+            "hex": "ccfd7f",
+            "r": 204,
+            "g": 253,
+            "b": 127
         },
         {
             "color": "dark navy blue",
-            "hex": "00022e"
+            "hex": "00022e",
+            "r": 0,
+            "g": 2,
+            "b": 46
         },
         {
             "color": "drab",
-            "hex": "828344"
+            "hex": "828344",
+            "r": 130,
+            "g": 131,
+            "b": 68
         },
         {
             "color": "light rose",
-            "hex": "ffc5cb"
+            "hex": "ffc5cb",
+            "r": 255,
+            "g": 197,
+            "b": 203
         },
         {
             "color": "rouge",
-            "hex": "ab1239"
+            "hex": "ab1239",
+            "r": 171,
+            "g": 18,
+            "b": 57
         },
         {
             "color": "purplish red",
-            "hex": "b0054b"
+            "hex": "b0054b",
+            "r": 176,
+            "g": 5,
+            "b": 75
         },
         {
             "color": "slime green",
-            "hex": "99cc04"
+            "hex": "99cc04",
+            "r": 153,
+            "g": 204,
+            "b": 4
         },
         {
             "color": "baby poop",
-            "hex": "937c00"
+            "hex": "937c00",
+            "r": 147,
+            "g": 124,
+            "b": 0
         },
         {
             "color": "irish green",
-            "hex": "019529"
+            "hex": "019529",
+            "r": 1,
+            "g": 149,
+            "b": 41
         },
         {
             "color": "pink/purple",
-            "hex": "ef1de7"
+            "hex": "ef1de7",
+            "r": 239,
+            "g": 29,
+            "b": 231
         },
         {
             "color": "dark navy",
-            "hex": "000435"
+            "hex": "000435",
+            "r": 0,
+            "g": 4,
+            "b": 53
         },
         {
             "color": "greeny blue",
-            "hex": "42b395"
+            "hex": "42b395",
+            "r": 66,
+            "g": 179,
+            "b": 149
         },
         {
             "color": "light plum",
-            "hex": "9d5783"
+            "hex": "9d5783",
+            "r": 157,
+            "g": 87,
+            "b": 131
         },
         {
             "color": "pinkish grey",
-            "hex": "c8aca9"
+            "hex": "c8aca9",
+            "r": 200,
+            "g": 172,
+            "b": 169
         },
         {
             "color": "dirty orange",
-            "hex": "c87606"
+            "hex": "c87606",
+            "r": 200,
+            "g": 118,
+            "b": 6
         },
         {
             "color": "rust red",
-            "hex": "aa2704"
+            "hex": "aa2704",
+            "r": 170,
+            "g": 39,
+            "b": 4
         },
         {
             "color": "pale lilac",
-            "hex": "e4cbff"
+            "hex": "e4cbff",
+            "r": 228,
+            "g": 203,
+            "b": 255
         },
         {
             "color": "orangey red",
-            "hex": "fa4224"
+            "hex": "fa4224",
+            "r": 250,
+            "g": 66,
+            "b": 36
         },
         {
             "color": "primary blue",
-            "hex": "0804f9"
+            "hex": "0804f9",
+            "r": 8,
+            "g": 4,
+            "b": 249
         },
         {
             "color": "kermit green",
-            "hex": "5cb200"
+            "hex": "5cb200",
+            "r": 92,
+            "g": 178,
+            "b": 0
         },
         {
             "color": "brownish purple",
-            "hex": "76424e"
+            "hex": "76424e",
+            "r": 118,
+            "g": 66,
+            "b": 78
         },
         {
             "color": "murky green",
-            "hex": "6c7a0e"
+            "hex": "6c7a0e",
+            "r": 108,
+            "g": 122,
+            "b": 14
         },
         {
             "color": "wheat",
-            "hex": "fbdd7e"
+            "hex": "fbdd7e",
+            "r": 251,
+            "g": 221,
+            "b": 126
         },
         {
             "color": "very dark purple",
-            "hex": "2a0134"
+            "hex": "2a0134",
+            "r": 42,
+            "g": 1,
+            "b": 52
         },
         {
             "color": "bottle green",
-            "hex": "044a05"
+            "hex": "044a05",
+            "r": 4,
+            "g": 74,
+            "b": 5
         },
         {
             "color": "watermelon",
-            "hex": "fd4659"
+            "hex": "fd4659",
+            "r": 253,
+            "g": 70,
+            "b": 89
         },
         {
             "color": "deep sky blue",
-            "hex": "0d75f8"
+            "hex": "0d75f8",
+            "r": 13,
+            "g": 117,
+            "b": 248
         },
         {
             "color": "fire engine red",
-            "hex": "fe0002"
+            "hex": "fe0002",
+            "r": 254,
+            "g": 0,
+            "b": 2
         },
         {
             "color": "yellow ochre",
-            "hex": "cb9d06"
+            "hex": "cb9d06",
+            "r": 203,
+            "g": 157,
+            "b": 6
         },
         {
             "color": "pumpkin orange",
-            "hex": "fb7d07"
+            "hex": "fb7d07",
+            "r": 251,
+            "g": 125,
+            "b": 7
         },
         {
             "color": "pale olive",
-            "hex": "b9cc81"
+            "hex": "b9cc81",
+            "r": 185,
+            "g": 204,
+            "b": 129
         },
         {
             "color": "light lilac",
-            "hex": "edc8ff"
+            "hex": "edc8ff",
+            "r": 237,
+            "g": 200,
+            "b": 255
         },
         {
             "color": "lightish green",
-            "hex": "61e160"
+            "hex": "61e160",
+            "r": 97,
+            "g": 225,
+            "b": 96
         },
         {
             "color": "carolina blue",
-            "hex": "8ab8fe"
+            "hex": "8ab8fe",
+            "r": 138,
+            "g": 184,
+            "b": 254
         },
         {
             "color": "mulberry",
-            "hex": "920a4e"
+            "hex": "920a4e",
+            "r": 146,
+            "g": 10,
+            "b": 78
         },
         {
             "color": "shocking pink",
-            "hex": "fe02a2"
+            "hex": "fe02a2",
+            "r": 254,
+            "g": 2,
+            "b": 162
         },
         {
             "color": "auburn",
-            "hex": "9a3001"
+            "hex": "9a3001",
+            "r": 154,
+            "g": 48,
+            "b": 1
         },
         {
             "color": "bright lime green",
-            "hex": "65fe08"
+            "hex": "65fe08",
+            "r": 101,
+            "g": 254,
+            "b": 8
         },
         {
             "color": "celadon",
-            "hex": "befdb7"
+            "hex": "befdb7",
+            "r": 190,
+            "g": 253,
+            "b": 183
         },
         {
             "color": "pinkish brown",
-            "hex": "b17261"
+            "hex": "b17261",
+            "r": 177,
+            "g": 114,
+            "b": 97
         },
         {
             "color": "poo brown",
-            "hex": "885f01"
+            "hex": "885f01",
+            "r": 136,
+            "g": 95,
+            "b": 1
         },
         {
             "color": "bright sky blue",
-            "hex": "02ccfe"
+            "hex": "02ccfe",
+            "r": 2,
+            "g": 204,
+            "b": 254
         },
         {
             "color": "celery",
-            "hex": "c1fd95"
+            "hex": "c1fd95",
+            "r": 193,
+            "g": 253,
+            "b": 149
         },
         {
             "color": "dirt brown",
-            "hex": "836539"
+            "hex": "836539",
+            "r": 131,
+            "g": 101,
+            "b": 57
         },
         {
             "color": "strawberry",
-            "hex": "fb2943"
+            "hex": "fb2943",
+            "r": 251,
+            "g": 41,
+            "b": 67
         },
         {
             "color": "dark lime",
-            "hex": "84b701"
+            "hex": "84b701",
+            "r": 132,
+            "g": 183,
+            "b": 1
         },
         {
             "color": "copper",
-            "hex": "b66325"
+            "hex": "b66325",
+            "r": 182,
+            "g": 99,
+            "b": 37
         },
         {
             "color": "medium brown",
-            "hex": "7f5112"
+            "hex": "7f5112",
+            "r": 127,
+            "g": 81,
+            "b": 18
         },
         {
             "color": "muted green",
-            "hex": "5fa052"
+            "hex": "5fa052",
+            "r": 95,
+            "g": 160,
+            "b": 82
         },
         {
             "color": "robin's egg",
-            "hex": "6dedfd"
+            "hex": "6dedfd",
+            "r": 109,
+            "g": 237,
+            "b": 253
         },
         {
             "color": "bright aqua",
-            "hex": "0bf9ea"
+            "hex": "0bf9ea",
+            "r": 11,
+            "g": 249,
+            "b": 234
         },
         {
             "color": "bright lavender",
-            "hex": "c760ff"
+            "hex": "c760ff",
+            "r": 199,
+            "g": 96,
+            "b": 255
         },
         {
             "color": "ivory",
-            "hex": "ffffcb"
+            "hex": "ffffcb",
+            "r": 255,
+            "g": 255,
+            "b": 203
         },
         {
             "color": "very light purple",
-            "hex": "f6cefc"
+            "hex": "f6cefc",
+            "r": 246,
+            "g": 206,
+            "b": 252
         },
         {
             "color": "light navy",
-            "hex": "155084"
+            "hex": "155084",
+            "r": 21,
+            "g": 80,
+            "b": 132
         },
         {
             "color": "pink red",
-            "hex": "f5054f"
+            "hex": "f5054f",
+            "r": 245,
+            "g": 5,
+            "b": 79
         },
         {
             "color": "olive brown",
-            "hex": "645403"
+            "hex": "645403",
+            "r": 100,
+            "g": 84,
+            "b": 3
         },
         {
             "color": "poop brown",
-            "hex": "7a5901"
+            "hex": "7a5901",
+            "r": 122,
+            "g": 89,
+            "b": 1
         },
         {
             "color": "mustard green",
-            "hex": "a8b504"
+            "hex": "a8b504",
+            "r": 168,
+            "g": 181,
+            "b": 4
         },
         {
             "color": "ocean green",
-            "hex": "3d9973"
+            "hex": "3d9973",
+            "r": 61,
+            "g": 153,
+            "b": 115
         },
         {
             "color": "very dark blue",
-            "hex": "000133"
+            "hex": "000133",
+            "r": 0,
+            "g": 1,
+            "b": 51
         },
         {
             "color": "dusty green",
-            "hex": "76a973"
+            "hex": "76a973",
+            "r": 118,
+            "g": 169,
+            "b": 115
         },
         {
             "color": "light navy blue",
-            "hex": "2e5a88"
+            "hex": "2e5a88",
+            "r": 46,
+            "g": 90,
+            "b": 136
         },
         {
             "color": "minty green",
-            "hex": "0bf77d"
+            "hex": "0bf77d",
+            "r": 11,
+            "g": 247,
+            "b": 125
         },
         {
             "color": "adobe",
-            "hex": "bd6c48"
+            "hex": "bd6c48",
+            "r": 189,
+            "g": 108,
+            "b": 72
         },
         {
             "color": "barney",
-            "hex": "ac1db8"
+            "hex": "ac1db8",
+            "r": 172,
+            "g": 29,
+            "b": 184
         },
         {
             "color": "jade green",
-            "hex": "2baf6a"
+            "hex": "2baf6a",
+            "r": 43,
+            "g": 175,
+            "b": 106
         },
         {
             "color": "bright light blue",
-            "hex": "26f7fd"
+            "hex": "26f7fd",
+            "r": 38,
+            "g": 247,
+            "b": 253
         },
         {
             "color": "light lime",
-            "hex": "aefd6c"
+            "hex": "aefd6c",
+            "r": 174,
+            "g": 253,
+            "b": 108
         },
         {
             "color": "dark khaki",
-            "hex": "9b8f55"
+            "hex": "9b8f55",
+            "r": 155,
+            "g": 143,
+            "b": 85
         },
         {
             "color": "orange yellow",
-            "hex": "ffad01"
+            "hex": "ffad01",
+            "r": 255,
+            "g": 173,
+            "b": 1
         },
         {
             "color": "ocre",
-            "hex": "c69c04"
+            "hex": "c69c04",
+            "r": 198,
+            "g": 156,
+            "b": 4
         },
         {
             "color": "maize",
-            "hex": "f4d054"
+            "hex": "f4d054",
+            "r": 244,
+            "g": 208,
+            "b": 84
         },
         {
             "color": "faded pink",
-            "hex": "de9dac"
+            "hex": "de9dac",
+            "r": 222,
+            "g": 157,
+            "b": 172
         },
         {
             "color": "british racing green",
-            "hex": "05480d"
+            "hex": "05480d",
+            "r": 5,
+            "g": 72,
+            "b": 13
         },
         {
             "color": "sandstone",
-            "hex": "c9ae74"
+            "hex": "c9ae74",
+            "r": 201,
+            "g": 174,
+            "b": 116
         },
         {
             "color": "mud brown",
-            "hex": "60460f"
+            "hex": "60460f",
+            "r": 96,
+            "g": 70,
+            "b": 15
         },
         {
             "color": "light sea green",
-            "hex": "98f6b0"
+            "hex": "98f6b0",
+            "r": 152,
+            "g": 246,
+            "b": 176
         },
         {
             "color": "robin egg blue",
-            "hex": "8af1fe"
+            "hex": "8af1fe",
+            "r": 138,
+            "g": 241,
+            "b": 254
         },
         {
             "color": "aqua marine",
-            "hex": "2ee8bb"
+            "hex": "2ee8bb",
+            "r": 46,
+            "g": 232,
+            "b": 187
         },
         {
             "color": "dark sea green",
-            "hex": "11875d"
+            "hex": "11875d",
+            "r": 17,
+            "g": 135,
+            "b": 93
         },
         {
             "color": "soft pink",
-            "hex": "fdb0c0"
+            "hex": "fdb0c0",
+            "r": 253,
+            "g": 176,
+            "b": 192
         },
         {
             "color": "orangey brown",
-            "hex": "b16002"
+            "hex": "b16002",
+            "r": 177,
+            "g": 96,
+            "b": 2
         },
         {
             "color": "cherry red",
-            "hex": "f7022a"
+            "hex": "f7022a",
+            "r": 247,
+            "g": 2,
+            "b": 42
         },
         {
             "color": "burnt yellow",
-            "hex": "d5ab09"
+            "hex": "d5ab09",
+            "r": 213,
+            "g": 171,
+            "b": 9
         },
         {
             "color": "brownish grey",
-            "hex": "86775f"
+            "hex": "86775f",
+            "r": 134,
+            "g": 119,
+            "b": 95
         },
         {
             "color": "camel",
-            "hex": "c69f59"
+            "hex": "c69f59",
+            "r": 198,
+            "g": 159,
+            "b": 89
         },
         {
             "color": "purplish grey",
-            "hex": "7a687f"
+            "hex": "7a687f",
+            "r": 122,
+            "g": 104,
+            "b": 127
         },
         {
             "color": "marine",
-            "hex": "042e60"
+            "hex": "042e60",
+            "r": 4,
+            "g": 46,
+            "b": 96
         },
         {
             "color": "greyish pink",
-            "hex": "c88d94"
+            "hex": "c88d94",
+            "r": 200,
+            "g": 141,
+            "b": 148
         },
         {
             "color": "pale turquoise",
-            "hex": "a5fbd5"
+            "hex": "a5fbd5",
+            "r": 165,
+            "g": 251,
+            "b": 213
         },
         {
             "color": "pastel yellow",
-            "hex": "fffe71"
+            "hex": "fffe71",
+            "r": 255,
+            "g": 254,
+            "b": 113
         },
         {
             "color": "bluey purple",
-            "hex": "6241c7"
+            "hex": "6241c7",
+            "r": 98,
+            "g": 65,
+            "b": 199
         },
         {
             "color": "canary yellow",
-            "hex": "fffe40"
+            "hex": "fffe40",
+            "r": 255,
+            "g": 254,
+            "b": 64
         },
         {
             "color": "faded red",
-            "hex": "d3494e"
+            "hex": "d3494e",
+            "r": 211,
+            "g": 73,
+            "b": 78
         },
         {
             "color": "sepia",
-            "hex": "985e2b"
+            "hex": "985e2b",
+            "r": 152,
+            "g": 94,
+            "b": 43
         },
         {
             "color": "coffee",
-            "hex": "a6814c"
+            "hex": "a6814c",
+            "r": 166,
+            "g": 129,
+            "b": 76
         },
         {
             "color": "bright magenta",
-            "hex": "ff08e8"
+            "hex": "ff08e8",
+            "r": 255,
+            "g": 8,
+            "b": 232
         },
         {
             "color": "mocha",
-            "hex": "9d7651"
+            "hex": "9d7651",
+            "r": 157,
+            "g": 118,
+            "b": 81
         },
         {
             "color": "ecru",
-            "hex": "feffca"
+            "hex": "feffca",
+            "r": 254,
+            "g": 255,
+            "b": 202
         },
         {
             "color": "purpleish",
-            "hex": "98568d"
+            "hex": "98568d",
+            "r": 152,
+            "g": 86,
+            "b": 141
         },
         {
             "color": "cranberry",
-            "hex": "9e003a"
+            "hex": "9e003a",
+            "r": 158,
+            "g": 0,
+            "b": 58
         },
         {
             "color": "darkish green",
-            "hex": "287c37"
+            "hex": "287c37",
+            "r": 40,
+            "g": 124,
+            "b": 55
         },
         {
             "color": "brown orange",
-            "hex": "b96902"
+            "hex": "b96902",
+            "r": 185,
+            "g": 105,
+            "b": 2
         },
         {
             "color": "dusky rose",
-            "hex": "ba6873"
+            "hex": "ba6873",
+            "r": 186,
+            "g": 104,
+            "b": 115
         },
         {
             "color": "melon",
-            "hex": "ff7855"
+            "hex": "ff7855",
+            "r": 255,
+            "g": 120,
+            "b": 85
         },
         {
             "color": "sickly green",
-            "hex": "94b21c"
+            "hex": "94b21c",
+            "r": 148,
+            "g": 178,
+            "b": 28
         },
         {
             "color": "silver",
-            "hex": "c5c9c7"
+            "hex": "c5c9c7",
+            "r": 197,
+            "g": 201,
+            "b": 199
         },
         {
             "color": "purply blue",
-            "hex": "661aee"
+            "hex": "661aee",
+            "r": 102,
+            "g": 26,
+            "b": 238
         },
         {
             "color": "purpleish blue",
-            "hex": "6140ef"
+            "hex": "6140ef",
+            "r": 97,
+            "g": 64,
+            "b": 239
         },
         {
             "color": "hospital green",
-            "hex": "9be5aa"
+            "hex": "9be5aa",
+            "r": 155,
+            "g": 229,
+            "b": 170
         },
         {
             "color": "shit brown",
-            "hex": "7b5804"
+            "hex": "7b5804",
+            "r": 123,
+            "g": 88,
+            "b": 4
         },
         {
             "color": "mid blue",
-            "hex": "276ab3"
+            "hex": "276ab3",
+            "r": 39,
+            "g": 106,
+            "b": 179
         },
         {
             "color": "amber",
-            "hex": "feb308"
+            "hex": "feb308",
+            "r": 254,
+            "g": 179,
+            "b": 8
         },
         {
             "color": "easter green",
-            "hex": "8cfd7e"
+            "hex": "8cfd7e",
+            "r": 140,
+            "g": 253,
+            "b": 126
         },
         {
             "color": "soft blue",
-            "hex": "6488ea"
+            "hex": "6488ea",
+            "r": 100,
+            "g": 136,
+            "b": 234
         },
         {
             "color": "cerulean blue",
-            "hex": "056eee"
+            "hex": "056eee",
+            "r": 5,
+            "g": 110,
+            "b": 238
         },
         {
             "color": "golden brown",
-            "hex": "b27a01"
+            "hex": "b27a01",
+            "r": 178,
+            "g": 122,
+            "b": 1
         },
         {
             "color": "bright turquoise",
-            "hex": "0ffef9"
+            "hex": "0ffef9",
+            "r": 15,
+            "g": 254,
+            "b": 249
         },
         {
             "color": "red pink",
-            "hex": "fa2a55"
+            "hex": "fa2a55",
+            "r": 250,
+            "g": 42,
+            "b": 85
         },
         {
             "color": "red purple",
-            "hex": "820747"
+            "hex": "820747",
+            "r": 130,
+            "g": 7,
+            "b": 71
         },
         {
             "color": "greyish brown",
-            "hex": "7a6a4f"
+            "hex": "7a6a4f",
+            "r": 122,
+            "g": 106,
+            "b": 79
         },
         {
             "color": "vermillion",
-            "hex": "f4320c"
+            "hex": "f4320c",
+            "r": 244,
+            "g": 50,
+            "b": 12
         },
         {
             "color": "russet",
-            "hex": "a13905"
+            "hex": "a13905",
+            "r": 161,
+            "g": 57,
+            "b": 5
         },
         {
             "color": "steel grey",
-            "hex": "6f828a"
+            "hex": "6f828a",
+            "r": 111,
+            "g": 130,
+            "b": 138
         },
         {
             "color": "lighter purple",
-            "hex": "a55af4"
+            "hex": "a55af4",
+            "r": 165,
+            "g": 90,
+            "b": 244
         },
         {
             "color": "bright violet",
-            "hex": "ad0afd"
+            "hex": "ad0afd",
+            "r": 173,
+            "g": 10,
+            "b": 253
         },
         {
             "color": "prussian blue",
-            "hex": "004577"
+            "hex": "004577",
+            "r": 0,
+            "g": 69,
+            "b": 119
         },
         {
             "color": "slate green",
-            "hex": "658d6d"
+            "hex": "658d6d",
+            "r": 101,
+            "g": 141,
+            "b": 109
         },
         {
             "color": "dirty pink",
-            "hex": "ca7b80"
+            "hex": "ca7b80",
+            "r": 202,
+            "g": 123,
+            "b": 128
         },
         {
             "color": "dark blue green",
-            "hex": "005249"
+            "hex": "005249",
+            "r": 0,
+            "g": 82,
+            "b": 73
         },
         {
             "color": "pine",
-            "hex": "2b5d34"
+            "hex": "2b5d34",
+            "r": 43,
+            "g": 93,
+            "b": 52
         },
         {
             "color": "yellowy green",
-            "hex": "bff128"
+            "hex": "bff128",
+            "r": 191,
+            "g": 241,
+            "b": 40
         },
         {
             "color": "dark gold",
-            "hex": "b59410"
+            "hex": "b59410",
+            "r": 181,
+            "g": 148,
+            "b": 16
         },
         {
             "color": "bluish",
-            "hex": "2976bb"
+            "hex": "2976bb",
+            "r": 41,
+            "g": 118,
+            "b": 187
         },
         {
             "color": "darkish blue",
-            "hex": "014182"
+            "hex": "014182",
+            "r": 1,
+            "g": 65,
+            "b": 130
         },
         {
             "color": "dull red",
-            "hex": "bb3f3f"
+            "hex": "bb3f3f",
+            "r": 187,
+            "g": 63,
+            "b": 63
         },
         {
             "color": "pinky red",
-            "hex": "fc2647"
+            "hex": "fc2647",
+            "r": 252,
+            "g": 38,
+            "b": 71
         },
         {
             "color": "bronze",
-            "hex": "a87900"
+            "hex": "a87900",
+            "r": 168,
+            "g": 121,
+            "b": 0
         },
         {
             "color": "pale teal",
-            "hex": "82cbb2"
+            "hex": "82cbb2",
+            "r": 130,
+            "g": 203,
+            "b": 178
         },
         {
             "color": "military green",
-            "hex": "667c3e"
+            "hex": "667c3e",
+            "r": 102,
+            "g": 124,
+            "b": 62
         },
         {
             "color": "barbie pink",
-            "hex": "fe46a5"
+            "hex": "fe46a5",
+            "r": 254,
+            "g": 70,
+            "b": 165
         },
         {
             "color": "bubblegum pink",
-            "hex": "fe83cc"
+            "hex": "fe83cc",
+            "r": 254,
+            "g": 131,
+            "b": 204
         },
         {
             "color": "pea soup green",
-            "hex": "94a617"
+            "hex": "94a617",
+            "r": 148,
+            "g": 166,
+            "b": 23
         },
         {
             "color": "dark mustard",
-            "hex": "a88905"
+            "hex": "a88905",
+            "r": 168,
+            "g": 137,
+            "b": 5
         },
         {
             "color": "shit",
-            "hex": "7f5f00"
+            "hex": "7f5f00",
+            "r": 127,
+            "g": 95,
+            "b": 0
         },
         {
             "color": "medium purple",
-            "hex": "9e43a2"
+            "hex": "9e43a2",
+            "r": 158,
+            "g": 67,
+            "b": 162
         },
         {
             "color": "very dark green",
-            "hex": "062e03"
+            "hex": "062e03",
+            "r": 6,
+            "g": 46,
+            "b": 3
         },
         {
             "color": "dirt",
-            "hex": "8a6e45"
+            "hex": "8a6e45",
+            "r": 138,
+            "g": 110,
+            "b": 69
         },
         {
             "color": "dusky pink",
-            "hex": "cc7a8b"
+            "hex": "cc7a8b",
+            "r": 204,
+            "g": 122,
+            "b": 139
         },
         {
             "color": "red violet",
-            "hex": "9e0168"
+            "hex": "9e0168",
+            "r": 158,
+            "g": 1,
+            "b": 104
         },
         {
             "color": "lemon yellow",
-            "hex": "fdff38"
+            "hex": "fdff38",
+            "r": 253,
+            "g": 255,
+            "b": 56
         },
         {
             "color": "pistachio",
-            "hex": "c0fa8b"
+            "hex": "c0fa8b",
+            "r": 192,
+            "g": 250,
+            "b": 139
         },
         {
             "color": "dull yellow",
-            "hex": "eedc5b"
+            "hex": "eedc5b",
+            "r": 238,
+            "g": 220,
+            "b": 91
         },
         {
             "color": "dark lime green",
-            "hex": "7ebd01"
+            "hex": "7ebd01",
+            "r": 126,
+            "g": 189,
+            "b": 1
         },
         {
             "color": "denim blue",
-            "hex": "3b5b92"
+            "hex": "3b5b92",
+            "r": 59,
+            "g": 91,
+            "b": 146
         },
         {
             "color": "teal blue",
-            "hex": "01889f"
+            "hex": "01889f",
+            "r": 1,
+            "g": 136,
+            "b": 159
         },
         {
             "color": "lightish blue",
-            "hex": "3d7afd"
+            "hex": "3d7afd",
+            "r": 61,
+            "g": 122,
+            "b": 253
         },
         {
             "color": "purpley blue",
-            "hex": "5f34e7"
+            "hex": "5f34e7",
+            "r": 95,
+            "g": 52,
+            "b": 231
         },
         {
             "color": "light indigo",
-            "hex": "6d5acf"
+            "hex": "6d5acf",
+            "r": 109,
+            "g": 90,
+            "b": 207
         },
         {
             "color": "swamp green",
-            "hex": "748500"
+            "hex": "748500",
+            "r": 116,
+            "g": 133,
+            "b": 0
         },
         {
             "color": "brown green",
-            "hex": "706c11"
+            "hex": "706c11",
+            "r": 112,
+            "g": 108,
+            "b": 17
         },
         {
             "color": "dark maroon",
-            "hex": "3c0008"
+            "hex": "3c0008",
+            "r": 60,
+            "g": 0,
+            "b": 8
         },
         {
             "color": "hot purple",
-            "hex": "cb00f5"
+            "hex": "cb00f5",
+            "r": 203,
+            "g": 0,
+            "b": 245
         },
         {
             "color": "dark forest green",
-            "hex": "002d04"
+            "hex": "002d04",
+            "r": 0,
+            "g": 45,
+            "b": 4
         },
         {
             "color": "faded blue",
-            "hex": "658cbb"
+            "hex": "658cbb",
+            "r": 101,
+            "g": 140,
+            "b": 187
         },
         {
             "color": "drab green",
-            "hex": "749551"
+            "hex": "749551",
+            "r": 116,
+            "g": 149,
+            "b": 81
         },
         {
             "color": "light lime green",
-            "hex": "b9ff66"
+            "hex": "b9ff66",
+            "r": 185,
+            "g": 255,
+            "b": 102
         },
         {
             "color": "snot green",
-            "hex": "9dc100"
+            "hex": "9dc100",
+            "r": 157,
+            "g": 193,
+            "b": 0
         },
         {
             "color": "yellowish",
-            "hex": "faee66"
+            "hex": "faee66",
+            "r": 250,
+            "g": 238,
+            "b": 102
         },
         {
             "color": "light blue green",
-            "hex": "7efbb3"
+            "hex": "7efbb3",
+            "r": 126,
+            "g": 251,
+            "b": 179
         },
         {
             "color": "bordeaux",
-            "hex": "7b002c"
+            "hex": "7b002c",
+            "r": 123,
+            "g": 0,
+            "b": 44
         },
         {
             "color": "light mauve",
-            "hex": "c292a1"
+            "hex": "c292a1",
+            "r": 194,
+            "g": 146,
+            "b": 161
         },
         {
             "color": "ocean",
-            "hex": "017b92"
+            "hex": "017b92",
+            "r": 1,
+            "g": 123,
+            "b": 146
         },
         {
             "color": "marigold",
-            "hex": "fcc006"
+            "hex": "fcc006",
+            "r": 252,
+            "g": 192,
+            "b": 6
         },
         {
             "color": "muddy green",
-            "hex": "657432"
+            "hex": "657432",
+            "r": 101,
+            "g": 116,
+            "b": 50
         },
         {
             "color": "dull orange",
-            "hex": "d8863b"
+            "hex": "d8863b",
+            "r": 216,
+            "g": 134,
+            "b": 59
         },
         {
             "color": "steel",
-            "hex": "738595"
+            "hex": "738595",
+            "r": 115,
+            "g": 133,
+            "b": 149
         },
         {
             "color": "electric purple",
-            "hex": "aa23ff"
+            "hex": "aa23ff",
+            "r": 170,
+            "g": 35,
+            "b": 255
         },
         {
             "color": "fluorescent green",
-            "hex": "08ff08"
+            "hex": "08ff08",
+            "r": 8,
+            "g": 255,
+            "b": 8
         },
         {
             "color": "yellowish brown",
-            "hex": "9b7a01"
+            "hex": "9b7a01",
+            "r": 155,
+            "g": 122,
+            "b": 1
         },
         {
             "color": "blush",
-            "hex": "f29e8e"
+            "hex": "f29e8e",
+            "r": 242,
+            "g": 158,
+            "b": 142
         },
         {
             "color": "soft green",
-            "hex": "6fc276"
+            "hex": "6fc276",
+            "r": 111,
+            "g": 194,
+            "b": 118
         },
         {
             "color": "bright orange",
-            "hex": "ff5b00"
+            "hex": "ff5b00",
+            "r": 255,
+            "g": 91,
+            "b": 0
         },
         {
             "color": "lemon",
-            "hex": "fdff52"
+            "hex": "fdff52",
+            "r": 253,
+            "g": 255,
+            "b": 82
         },
         {
             "color": "purple grey",
-            "hex": "866f85"
+            "hex": "866f85",
+            "r": 134,
+            "g": 111,
+            "b": 133
         },
         {
             "color": "acid green",
-            "hex": "8ffe09"
+            "hex": "8ffe09",
+            "r": 143,
+            "g": 254,
+            "b": 9
         },
         {
             "color": "pale lavender",
-            "hex": "eecffe"
+            "hex": "eecffe",
+            "r": 238,
+            "g": 207,
+            "b": 254
         },
         {
             "color": "violet blue",
-            "hex": "510ac9"
+            "hex": "510ac9",
+            "r": 81,
+            "g": 10,
+            "b": 201
         },
         {
             "color": "light forest green",
-            "hex": "4f9153"
+            "hex": "4f9153",
+            "r": 79,
+            "g": 145,
+            "b": 83
         },
         {
             "color": "burnt red",
-            "hex": "9f2305"
+            "hex": "9f2305",
+            "r": 159,
+            "g": 35,
+            "b": 5
         },
         {
             "color": "khaki green",
-            "hex": "728639"
+            "hex": "728639",
+            "r": 114,
+            "g": 134,
+            "b": 57
         },
         {
             "color": "cerise",
-            "hex": "de0c62"
+            "hex": "de0c62",
+            "r": 222,
+            "g": 12,
+            "b": 98
         },
         {
             "color": "faded purple",
-            "hex": "916e99"
+            "hex": "916e99",
+            "r": 145,
+            "g": 110,
+            "b": 153
         },
         {
             "color": "apricot",
-            "hex": "ffb16d"
+            "hex": "ffb16d",
+            "r": 255,
+            "g": 177,
+            "b": 109
         },
         {
             "color": "dark olive green",
-            "hex": "3c4d03"
+            "hex": "3c4d03",
+            "r": 60,
+            "g": 77,
+            "b": 3
         },
         {
             "color": "grey brown",
-            "hex": "7f7053"
+            "hex": "7f7053",
+            "r": 127,
+            "g": 112,
+            "b": 83
         },
         {
             "color": "green grey",
-            "hex": "77926f"
+            "hex": "77926f",
+            "r": 119,
+            "g": 146,
+            "b": 111
         },
         {
             "color": "true blue",
-            "hex": "010fcc"
+            "hex": "010fcc",
+            "r": 1,
+            "g": 15,
+            "b": 204
         },
         {
             "color": "pale violet",
-            "hex": "ceaefa"
+            "hex": "ceaefa",
+            "r": 206,
+            "g": 174,
+            "b": 250
         },
         {
             "color": "periwinkle blue",
-            "hex": "8f99fb"
+            "hex": "8f99fb",
+            "r": 143,
+            "g": 153,
+            "b": 251
         },
         {
             "color": "light sky blue",
-            "hex": "c6fcff"
+            "hex": "c6fcff",
+            "r": 198,
+            "g": 252,
+            "b": 255
         },
         {
             "color": "blurple",
-            "hex": "5539cc"
+            "hex": "5539cc",
+            "r": 85,
+            "g": 57,
+            "b": 204
         },
         {
             "color": "green brown",
-            "hex": "544e03"
+            "hex": "544e03",
+            "r": 84,
+            "g": 78,
+            "b": 3
         },
         {
             "color": "bluegreen",
-            "hex": "017a79"
+            "hex": "017a79",
+            "r": 1,
+            "g": 122,
+            "b": 121
         },
         {
             "color": "bright teal",
-            "hex": "01f9c6"
+            "hex": "01f9c6",
+            "r": 1,
+            "g": 249,
+            "b": 198
         },
         {
             "color": "brownish yellow",
-            "hex": "c9b003"
+            "hex": "c9b003",
+            "r": 201,
+            "g": 176,
+            "b": 3
         },
         {
             "color": "pea soup",
-            "hex": "929901"
+            "hex": "929901",
+            "r": 146,
+            "g": 153,
+            "b": 1
         },
         {
             "color": "forest",
-            "hex": "0b5509"
+            "hex": "0b5509",
+            "r": 11,
+            "g": 85,
+            "b": 9
         },
         {
             "color": "barney purple",
-            "hex": "a00498"
+            "hex": "a00498",
+            "r": 160,
+            "g": 4,
+            "b": 152
         },
         {
             "color": "ultramarine",
-            "hex": "2000b1"
+            "hex": "2000b1",
+            "r": 32,
+            "g": 0,
+            "b": 177
         },
         {
             "color": "purplish",
-            "hex": "94568c"
+            "hex": "94568c",
+            "r": 148,
+            "g": 86,
+            "b": 140
         },
         {
             "color": "puke yellow",
-            "hex": "c2be0e"
+            "hex": "c2be0e",
+            "r": 194,
+            "g": 190,
+            "b": 14
         },
         {
             "color": "bluish grey",
-            "hex": "748b97"
+            "hex": "748b97",
+            "r": 116,
+            "g": 139,
+            "b": 151
         },
         {
             "color": "dark periwinkle",
-            "hex": "665fd1"
+            "hex": "665fd1",
+            "r": 102,
+            "g": 95,
+            "b": 209
         },
         {
             "color": "dark lilac",
-            "hex": "9c6da5"
+            "hex": "9c6da5",
+            "r": 156,
+            "g": 109,
+            "b": 165
         },
         {
             "color": "reddish",
-            "hex": "c44240"
+            "hex": "c44240",
+            "r": 196,
+            "g": 66,
+            "b": 64
         },
         {
             "color": "light maroon",
-            "hex": "a24857"
+            "hex": "a24857",
+            "r": 162,
+            "g": 72,
+            "b": 87
         },
         {
             "color": "dusty purple",
-            "hex": "825f87"
+            "hex": "825f87",
+            "r": 130,
+            "g": 95,
+            "b": 135
         },
         {
             "color": "terra cotta",
-            "hex": "c9643b"
+            "hex": "c9643b",
+            "r": 201,
+            "g": 100,
+            "b": 59
         },
         {
             "color": "avocado",
-            "hex": "90b134"
+            "hex": "90b134",
+            "r": 144,
+            "g": 177,
+            "b": 52
         },
         {
             "color": "marine blue",
-            "hex": "01386a"
+            "hex": "01386a",
+            "r": 1,
+            "g": 56,
+            "b": 106
         },
         {
             "color": "teal green",
-            "hex": "25a36f"
+            "hex": "25a36f",
+            "r": 37,
+            "g": 163,
+            "b": 111
         },
         {
             "color": "slate grey",
-            "hex": "59656d"
+            "hex": "59656d",
+            "r": 89,
+            "g": 101,
+            "b": 109
         },
         {
             "color": "lighter green",
-            "hex": "75fd63"
+            "hex": "75fd63",
+            "r": 117,
+            "g": 253,
+            "b": 99
         },
         {
             "color": "electric green",
-            "hex": "21fc0d"
+            "hex": "21fc0d",
+            "r": 33,
+            "g": 252,
+            "b": 13
         },
         {
             "color": "dusty blue",
-            "hex": "5a86ad"
+            "hex": "5a86ad",
+            "r": 90,
+            "g": 134,
+            "b": 173
         },
         {
             "color": "golden yellow",
-            "hex": "fec615"
+            "hex": "fec615",
+            "r": 254,
+            "g": 198,
+            "b": 21
         },
         {
             "color": "bright yellow",
-            "hex": "fffd01"
+            "hex": "fffd01",
+            "r": 255,
+            "g": 253,
+            "b": 1
         },
         {
             "color": "light lavender",
-            "hex": "dfc5fe"
+            "hex": "dfc5fe",
+            "r": 223,
+            "g": 197,
+            "b": 254
         },
         {
             "color": "umber",
-            "hex": "b26400"
+            "hex": "b26400",
+            "r": 178,
+            "g": 100,
+            "b": 0
         },
         {
             "color": "poop",
-            "hex": "7f5e00"
+            "hex": "7f5e00",
+            "r": 127,
+            "g": 94,
+            "b": 0
         },
         {
             "color": "dark peach",
-            "hex": "de7e5d"
+            "hex": "de7e5d",
+            "r": 222,
+            "g": 126,
+            "b": 93
         },
         {
             "color": "jungle green",
-            "hex": "048243"
+            "hex": "048243",
+            "r": 4,
+            "g": 130,
+            "b": 67
         },
         {
             "color": "eggshell",
-            "hex": "ffffd4"
+            "hex": "ffffd4",
+            "r": 255,
+            "g": 255,
+            "b": 212
         },
         {
             "color": "denim",
-            "hex": "3b638c"
+            "hex": "3b638c",
+            "r": 59,
+            "g": 99,
+            "b": 140
         },
         {
             "color": "yellow brown",
-            "hex": "b79400"
+            "hex": "b79400",
+            "r": 183,
+            "g": 148,
+            "b": 0
         },
         {
             "color": "dull purple",
-            "hex": "84597e"
+            "hex": "84597e",
+            "r": 132,
+            "g": 89,
+            "b": 126
         },
         {
             "color": "chocolate brown",
-            "hex": "411900"
+            "hex": "411900",
+            "r": 65,
+            "g": 25,
+            "b": 0
         },
         {
             "color": "wine red",
-            "hex": "7b0323"
+            "hex": "7b0323",
+            "r": 123,
+            "g": 3,
+            "b": 35
         },
         {
             "color": "neon blue",
-            "hex": "04d9ff"
+            "hex": "04d9ff",
+            "r": 4,
+            "g": 217,
+            "b": 255
         },
         {
             "color": "dirty green",
-            "hex": "667e2c"
+            "hex": "667e2c",
+            "r": 102,
+            "g": 126,
+            "b": 44
         },
         {
             "color": "light tan",
-            "hex": "fbeeac"
+            "hex": "fbeeac",
+            "r": 251,
+            "g": 238,
+            "b": 172
         },
         {
             "color": "ice blue",
-            "hex": "d7fffe"
+            "hex": "d7fffe",
+            "r": 215,
+            "g": 255,
+            "b": 254
         },
         {
             "color": "cadet blue",
-            "hex": "4e7496"
+            "hex": "4e7496",
+            "r": 78,
+            "g": 116,
+            "b": 150
         },
         {
             "color": "dark mauve",
-            "hex": "874c62"
+            "hex": "874c62",
+            "r": 135,
+            "g": 76,
+            "b": 98
         },
         {
             "color": "very light blue",
-            "hex": "d5ffff"
+            "hex": "d5ffff",
+            "r": 213,
+            "g": 255,
+            "b": 255
         },
         {
             "color": "grey purple",
-            "hex": "826d8c"
+            "hex": "826d8c",
+            "r": 130,
+            "g": 109,
+            "b": 140
         },
         {
             "color": "pastel pink",
-            "hex": "ffbacd"
+            "hex": "ffbacd",
+            "r": 255,
+            "g": 186,
+            "b": 205
         },
         {
             "color": "very light green",
-            "hex": "d1ffbd"
+            "hex": "d1ffbd",
+            "r": 209,
+            "g": 255,
+            "b": 189
         },
         {
             "color": "dark sky blue",
-            "hex": "448ee4"
+            "hex": "448ee4",
+            "r": 68,
+            "g": 142,
+            "b": 228
         },
         {
             "color": "evergreen",
-            "hex": "05472a"
+            "hex": "05472a",
+            "r": 5,
+            "g": 71,
+            "b": 42
         },
         {
             "color": "dull pink",
-            "hex": "d5869d"
+            "hex": "d5869d",
+            "r": 213,
+            "g": 134,
+            "b": 157
         },
         {
             "color": "aubergine",
-            "hex": "3d0734"
+            "hex": "3d0734",
+            "r": 61,
+            "g": 7,
+            "b": 52
         },
         {
             "color": "mahogany",
-            "hex": "4a0100"
+            "hex": "4a0100",
+            "r": 74,
+            "g": 1,
+            "b": 0
         },
         {
             "color": "reddish orange",
-            "hex": "f8481c"
+            "hex": "f8481c",
+            "r": 248,
+            "g": 72,
+            "b": 28
         },
         {
             "color": "deep green",
-            "hex": "02590f"
+            "hex": "02590f",
+            "r": 2,
+            "g": 89,
+            "b": 15
         },
         {
             "color": "vomit green",
-            "hex": "89a203"
+            "hex": "89a203",
+            "r": 137,
+            "g": 162,
+            "b": 3
         },
         {
             "color": "purple pink",
-            "hex": "e03fd8"
+            "hex": "e03fd8",
+            "r": 224,
+            "g": 63,
+            "b": 216
         },
         {
             "color": "dusty pink",
-            "hex": "d58a94"
+            "hex": "d58a94",
+            "r": 213,
+            "g": 138,
+            "b": 148
         },
         {
             "color": "faded green",
-            "hex": "7bb274"
+            "hex": "7bb274",
+            "r": 123,
+            "g": 178,
+            "b": 116
         },
         {
             "color": "camo green",
-            "hex": "526525"
+            "hex": "526525",
+            "r": 82,
+            "g": 101,
+            "b": 37
         },
         {
             "color": "pinky purple",
-            "hex": "c94cbe"
+            "hex": "c94cbe",
+            "r": 201,
+            "g": 76,
+            "b": 190
         },
         {
             "color": "pink purple",
-            "hex": "db4bda"
+            "hex": "db4bda",
+            "r": 219,
+            "g": 75,
+            "b": 218
         },
         {
             "color": "brownish red",
-            "hex": "9e3623"
+            "hex": "9e3623",
+            "r": 158,
+            "g": 54,
+            "b": 35
         },
         {
             "color": "dark rose",
-            "hex": "b5485d"
+            "hex": "b5485d",
+            "r": 181,
+            "g": 72,
+            "b": 93
         },
         {
             "color": "mud",
-            "hex": "735c12"
+            "hex": "735c12",
+            "r": 115,
+            "g": 92,
+            "b": 18
         },
         {
             "color": "brownish",
-            "hex": "9c6d57"
+            "hex": "9c6d57",
+            "r": 156,
+            "g": 109,
+            "b": 87
         },
         {
             "color": "emerald green",
-            "hex": "028f1e"
+            "hex": "028f1e",
+            "r": 2,
+            "g": 143,
+            "b": 30
         },
         {
             "color": "pale brown",
-            "hex": "b1916e"
+            "hex": "b1916e",
+            "r": 177,
+            "g": 145,
+            "b": 110
         },
         {
             "color": "dull blue",
-            "hex": "49759c"
+            "hex": "49759c",
+            "r": 73,
+            "g": 117,
+            "b": 156
         },
         {
             "color": "burnt umber",
-            "hex": "a0450e"
+            "hex": "a0450e",
+            "r": 160,
+            "g": 69,
+            "b": 14
         },
         {
             "color": "medium green",
-            "hex": "39ad48"
+            "hex": "39ad48",
+            "r": 57,
+            "g": 173,
+            "b": 72
         },
         {
             "color": "clay",
-            "hex": "b66a50"
+            "hex": "b66a50",
+            "r": 182,
+            "g": 106,
+            "b": 80
         },
         {
             "color": "light aqua",
-            "hex": "8cffdb"
+            "hex": "8cffdb",
+            "r": 140,
+            "g": 255,
+            "b": 219
         },
         {
             "color": "light olive green",
-            "hex": "a4be5c"
+            "hex": "a4be5c",
+            "r": 164,
+            "g": 190,
+            "b": 92
         },
         {
             "color": "brownish orange",
-            "hex": "cb7723"
+            "hex": "cb7723",
+            "r": 203,
+            "g": 119,
+            "b": 35
         },
         {
             "color": "dark aqua",
-            "hex": "05696b"
+            "hex": "05696b",
+            "r": 5,
+            "g": 105,
+            "b": 107
         },
         {
             "color": "purplish pink",
-            "hex": "ce5dae"
+            "hex": "ce5dae",
+            "r": 206,
+            "g": 93,
+            "b": 174
         },
         {
             "color": "dark salmon",
-            "hex": "c85a53"
+            "hex": "c85a53",
+            "r": 200,
+            "g": 90,
+            "b": 83
         },
         {
             "color": "greenish grey",
-            "hex": "96ae8d"
+            "hex": "96ae8d",
+            "r": 150,
+            "g": 174,
+            "b": 141
         },
         {
             "color": "jade",
-            "hex": "1fa774"
+            "hex": "1fa774",
+            "r": 31,
+            "g": 167,
+            "b": 116
         },
         {
             "color": "ugly green",
-            "hex": "7a9703"
+            "hex": "7a9703",
+            "r": 122,
+            "g": 151,
+            "b": 3
         },
         {
             "color": "dark beige",
-            "hex": "ac9362"
+            "hex": "ac9362",
+            "r": 172,
+            "g": 147,
+            "b": 98
         },
         {
             "color": "emerald",
-            "hex": "01a049"
+            "hex": "01a049",
+            "r": 1,
+            "g": 160,
+            "b": 73
         },
         {
             "color": "pale red",
-            "hex": "d9544d"
+            "hex": "d9544d",
+            "r": 217,
+            "g": 84,
+            "b": 77
         },
         {
             "color": "light magenta",
-            "hex": "fa5ff7"
+            "hex": "fa5ff7",
+            "r": 250,
+            "g": 95,
+            "b": 247
         },
         {
             "color": "sky",
-            "hex": "82cafc"
+            "hex": "82cafc",
+            "r": 130,
+            "g": 202,
+            "b": 252
         },
         {
             "color": "light cyan",
-            "hex": "acfffc"
+            "hex": "acfffc",
+            "r": 172,
+            "g": 255,
+            "b": 252
         },
         {
             "color": "yellow orange",
-            "hex": "fcb001"
+            "hex": "fcb001",
+            "r": 252,
+            "g": 176,
+            "b": 1
         },
         {
             "color": "reddish purple",
-            "hex": "910951"
+            "hex": "910951",
+            "r": 145,
+            "g": 9,
+            "b": 81
         },
         {
             "color": "reddish pink",
-            "hex": "fe2c54"
+            "hex": "fe2c54",
+            "r": 254,
+            "g": 44,
+            "b": 84
         },
         {
             "color": "orchid",
-            "hex": "c875c4"
+            "hex": "c875c4",
+            "r": 200,
+            "g": 117,
+            "b": 196
         },
         {
             "color": "dirty yellow",
-            "hex": "cdc50a"
+            "hex": "cdc50a",
+            "r": 205,
+            "g": 197,
+            "b": 10
         },
         {
             "color": "orange red",
-            "hex": "fd411e"
+            "hex": "fd411e",
+            "r": 253,
+            "g": 65,
+            "b": 30
         },
         {
             "color": "deep red",
-            "hex": "9a0200"
+            "hex": "9a0200",
+            "r": 154,
+            "g": 2,
+            "b": 0
         },
         {
             "color": "orange brown",
-            "hex": "be6400"
+            "hex": "be6400",
+            "r": 190,
+            "g": 100,
+            "b": 0
         },
         {
             "color": "cobalt blue",
-            "hex": "030aa7"
+            "hex": "030aa7",
+            "r": 3,
+            "g": 10,
+            "b": 167
         },
         {
             "color": "neon pink",
-            "hex": "fe019a"
+            "hex": "fe019a",
+            "r": 254,
+            "g": 1,
+            "b": 154
         },
         {
             "color": "rose pink",
-            "hex": "f7879a"
+            "hex": "f7879a",
+            "r": 247,
+            "g": 135,
+            "b": 154
         },
         {
             "color": "greyish purple",
-            "hex": "887191"
+            "hex": "887191",
+            "r": 136,
+            "g": 113,
+            "b": 145
         },
         {
             "color": "raspberry",
-            "hex": "b00149"
+            "hex": "b00149",
+            "r": 176,
+            "g": 1,
+            "b": 73
         },
         {
             "color": "aqua green",
-            "hex": "12e193"
+            "hex": "12e193",
+            "r": 18,
+            "g": 225,
+            "b": 147
         },
         {
             "color": "salmon pink",
-            "hex": "fe7b7c"
+            "hex": "fe7b7c",
+            "r": 254,
+            "g": 123,
+            "b": 124
         },
         {
             "color": "tangerine",
-            "hex": "ff9408"
+            "hex": "ff9408",
+            "r": 255,
+            "g": 148,
+            "b": 8
         },
         {
             "color": "brownish green",
-            "hex": "6a6e09"
+            "hex": "6a6e09",
+            "r": 106,
+            "g": 110,
+            "b": 9
         },
         {
             "color": "red brown",
-            "hex": "8b2e16"
+            "hex": "8b2e16",
+            "r": 139,
+            "g": 46,
+            "b": 22
         },
         {
             "color": "greenish brown",
-            "hex": "696112"
+            "hex": "696112",
+            "r": 105,
+            "g": 97,
+            "b": 18
         },
         {
             "color": "pumpkin",
-            "hex": "e17701"
+            "hex": "e17701",
+            "r": 225,
+            "g": 119,
+            "b": 1
         },
         {
             "color": "pine green",
-            "hex": "0a481e"
+            "hex": "0a481e",
+            "r": 10,
+            "g": 72,
+            "b": 30
         },
         {
             "color": "charcoal",
-            "hex": "343837"
+            "hex": "343837",
+            "r": 52,
+            "g": 56,
+            "b": 55
         },
         {
             "color": "baby pink",
-            "hex": "ffb7ce"
+            "hex": "ffb7ce",
+            "r": 255,
+            "g": 183,
+            "b": 206
         },
         {
             "color": "cornflower",
-            "hex": "6a79f7"
+            "hex": "6a79f7",
+            "r": 106,
+            "g": 121,
+            "b": 247
         },
         {
             "color": "blue violet",
-            "hex": "5d06e9"
+            "hex": "5d06e9",
+            "r": 93,
+            "g": 6,
+            "b": 233
         },
         {
             "color": "chocolate",
-            "hex": "3d1c02"
+            "hex": "3d1c02",
+            "r": 61,
+            "g": 28,
+            "b": 2
         },
         {
             "color": "greyish green",
-            "hex": "82a67d"
+            "hex": "82a67d",
+            "r": 130,
+            "g": 166,
+            "b": 125
         },
         {
             "color": "scarlet",
-            "hex": "be0119"
+            "hex": "be0119",
+            "r": 190,
+            "g": 1,
+            "b": 25
         },
         {
             "color": "green yellow",
-            "hex": "c9ff27"
+            "hex": "c9ff27",
+            "r": 201,
+            "g": 255,
+            "b": 39
         },
         {
             "color": "dark olive",
-            "hex": "373e02"
+            "hex": "373e02",
+            "r": 55,
+            "g": 62,
+            "b": 2
         },
         {
             "color": "sienna",
-            "hex": "a9561e"
+            "hex": "a9561e",
+            "r": 169,
+            "g": 86,
+            "b": 30
         },
         {
             "color": "pastel purple",
-            "hex": "caa0ff"
+            "hex": "caa0ff",
+            "r": 202,
+            "g": 160,
+            "b": 255
         },
         {
             "color": "terracotta",
-            "hex": "ca6641"
+            "hex": "ca6641",
+            "r": 202,
+            "g": 102,
+            "b": 65
         },
         {
             "color": "aqua blue",
-            "hex": "02d8e9"
+            "hex": "02d8e9",
+            "r": 2,
+            "g": 216,
+            "b": 233
         },
         {
             "color": "sage green",
-            "hex": "88b378"
+            "hex": "88b378",
+            "r": 136,
+            "g": 179,
+            "b": 120
         },
         {
             "color": "blood red",
-            "hex": "980002"
+            "hex": "980002",
+            "r": 152,
+            "g": 0,
+            "b": 2
         },
         {
             "color": "deep pink",
-            "hex": "cb0162"
+            "hex": "cb0162",
+            "r": 203,
+            "g": 1,
+            "b": 98
         },
         {
             "color": "grass",
-            "hex": "5cac2d"
+            "hex": "5cac2d",
+            "r": 92,
+            "g": 172,
+            "b": 45
         },
         {
             "color": "moss",
-            "hex": "769958"
+            "hex": "769958",
+            "r": 118,
+            "g": 153,
+            "b": 88
         },
         {
             "color": "pastel blue",
-            "hex": "a2bffe"
+            "hex": "a2bffe",
+            "r": 162,
+            "g": 191,
+            "b": 254
         },
         {
             "color": "bluish green",
-            "hex": "10a674"
+            "hex": "10a674",
+            "r": 16,
+            "g": 166,
+            "b": 116
         },
         {
             "color": "green blue",
-            "hex": "06b48b"
+            "hex": "06b48b",
+            "r": 6,
+            "g": 180,
+            "b": 139
         },
         {
             "color": "dark tan",
-            "hex": "af884a"
+            "hex": "af884a",
+            "r": 175,
+            "g": 136,
+            "b": 74
         },
         {
             "color": "greenish blue",
-            "hex": "0b8b87"
+            "hex": "0b8b87",
+            "r": 11,
+            "g": 139,
+            "b": 135
         },
         {
             "color": "pale orange",
-            "hex": "ffa756"
+            "hex": "ffa756",
+            "r": 255,
+            "g": 167,
+            "b": 86
         },
         {
             "color": "vomit",
-            "hex": "a2a415"
+            "hex": "a2a415",
+            "r": 162,
+            "g": 164,
+            "b": 21
         },
         {
             "color": "forrest green",
-            "hex": "154406"
+            "hex": "154406",
+            "r": 21,
+            "g": 68,
+            "b": 6
         },
         {
             "color": "dark lavender",
-            "hex": "856798"
+            "hex": "856798",
+            "r": 133,
+            "g": 103,
+            "b": 152
         },
         {
             "color": "dark violet",
-            "hex": "34013f"
+            "hex": "34013f",
+            "r": 52,
+            "g": 1,
+            "b": 63
         },
         {
             "color": "purple blue",
-            "hex": "632de9"
+            "hex": "632de9",
+            "r": 99,
+            "g": 45,
+            "b": 233
         },
         {
             "color": "dark cyan",
-            "hex": "0a888a"
+            "hex": "0a888a",
+            "r": 10,
+            "g": 136,
+            "b": 138
         },
         {
             "color": "olive drab",
-            "hex": "6f7632"
+            "hex": "6f7632",
+            "r": 111,
+            "g": 118,
+            "b": 50
         },
         {
             "color": "pinkish",
-            "hex": "d46a7e"
+            "hex": "d46a7e",
+            "r": 212,
+            "g": 106,
+            "b": 126
         },
         {
             "color": "cobalt",
-            "hex": "1e488f"
+            "hex": "1e488f",
+            "r": 30,
+            "g": 72,
+            "b": 143
         },
         {
             "color": "neon purple",
-            "hex": "bc13fe"
+            "hex": "bc13fe",
+            "r": 188,
+            "g": 19,
+            "b": 254
         },
         {
             "color": "light turquoise",
-            "hex": "7ef4cc"
+            "hex": "7ef4cc",
+            "r": 126,
+            "g": 244,
+            "b": 204
         },
         {
             "color": "apple green",
-            "hex": "76cd26"
+            "hex": "76cd26",
+            "r": 118,
+            "g": 205,
+            "b": 38
         },
         {
             "color": "dull green",
-            "hex": "74a662"
+            "hex": "74a662",
+            "r": 116,
+            "g": 166,
+            "b": 98
         },
         {
             "color": "wine",
-            "hex": "80013f"
+            "hex": "80013f",
+            "r": 128,
+            "g": 1,
+            "b": 63
         },
         {
             "color": "powder blue",
-            "hex": "b1d1fc"
+            "hex": "b1d1fc",
+            "r": 177,
+            "g": 209,
+            "b": 252
         },
         {
             "color": "off white",
-            "hex": "ffffe4"
+            "hex": "ffffe4",
+            "r": 255,
+            "g": 255,
+            "b": 228
         },
         {
             "color": "electric blue",
-            "hex": "0652ff"
+            "hex": "0652ff",
+            "r": 6,
+            "g": 82,
+            "b": 255
         },
         {
             "color": "dark turquoise",
-            "hex": "045c5a"
+            "hex": "045c5a",
+            "r": 4,
+            "g": 92,
+            "b": 90
         },
         {
             "color": "blue purple",
-            "hex": "5729ce"
+            "hex": "5729ce",
+            "r": 87,
+            "g": 41,
+            "b": 206
         },
         {
             "color": "azure",
-            "hex": "069af3"
+            "hex": "069af3",
+            "r": 6,
+            "g": 154,
+            "b": 243
         },
         {
             "color": "bright red",
-            "hex": "ff000d"
+            "hex": "ff000d",
+            "r": 255,
+            "g": 0,
+            "b": 13
         },
         {
             "color": "pinkish red",
-            "hex": "f10c45"
+            "hex": "f10c45",
+            "r": 241,
+            "g": 12,
+            "b": 69
         },
         {
             "color": "cornflower blue",
-            "hex": "5170d7"
+            "hex": "5170d7",
+            "r": 81,
+            "g": 112,
+            "b": 215
         },
         {
             "color": "light olive",
-            "hex": "acbf69"
+            "hex": "acbf69",
+            "r": 172,
+            "g": 191,
+            "b": 105
         },
         {
             "color": "grape",
-            "hex": "6c3461"
+            "hex": "6c3461",
+            "r": 108,
+            "g": 52,
+            "b": 97
         },
         {
             "color": "greyish blue",
-            "hex": "5e819d"
+            "hex": "5e819d",
+            "r": 94,
+            "g": 129,
+            "b": 157
         },
         {
             "color": "purplish blue",
-            "hex": "601ef9"
+            "hex": "601ef9",
+            "r": 96,
+            "g": 30,
+            "b": 249
         },
         {
             "color": "yellowish green",
-            "hex": "b0dd16"
+            "hex": "b0dd16",
+            "r": 176,
+            "g": 221,
+            "b": 22
         },
         {
             "color": "greenish yellow",
-            "hex": "cdfd02"
+            "hex": "cdfd02",
+            "r": 205,
+            "g": 253,
+            "b": 2
         },
         {
             "color": "medium blue",
-            "hex": "2c6fbb"
+            "hex": "2c6fbb",
+            "r": 44,
+            "g": 111,
+            "b": 187
         },
         {
             "color": "dusty rose",
-            "hex": "c0737a"
+            "hex": "c0737a",
+            "r": 192,
+            "g": 115,
+            "b": 122
         },
         {
             "color": "light violet",
-            "hex": "d6b4fc"
+            "hex": "d6b4fc",
+            "r": 214,
+            "g": 180,
+            "b": 252
         },
         {
             "color": "midnight blue",
-            "hex": "020035"
+            "hex": "020035",
+            "r": 2,
+            "g": 0,
+            "b": 53
         },
         {
             "color": "bluish purple",
-            "hex": "703be7"
+            "hex": "703be7",
+            "r": 112,
+            "g": 59,
+            "b": 231
         },
         {
             "color": "red orange",
-            "hex": "fd3c06"
+            "hex": "fd3c06",
+            "r": 253,
+            "g": 60,
+            "b": 6
         },
         {
             "color": "dark magenta",
-            "hex": "960056"
+            "hex": "960056",
+            "r": 150,
+            "g": 0,
+            "b": 86
         },
         {
             "color": "greenish",
-            "hex": "40a368"
+            "hex": "40a368",
+            "r": 64,
+            "g": 163,
+            "b": 104
         },
         {
             "color": "ocean blue",
-            "hex": "03719c"
+            "hex": "03719c",
+            "r": 3,
+            "g": 113,
+            "b": 156
         },
         {
             "color": "coral",
-            "hex": "fc5a50"
+            "hex": "fc5a50",
+            "r": 252,
+            "g": 90,
+            "b": 80
         },
         {
             "color": "cream",
-            "hex": "ffffc2"
+            "hex": "ffffc2",
+            "r": 255,
+            "g": 255,
+            "b": 194
         },
         {
             "color": "reddish brown",
-            "hex": "7f2b0a"
+            "hex": "7f2b0a",
+            "r": 127,
+            "g": 43,
+            "b": 10
         },
         {
             "color": "burnt sienna",
-            "hex": "b04e0f"
+            "hex": "b04e0f",
+            "r": 176,
+            "g": 78,
+            "b": 15
         },
         {
             "color": "brick",
-            "hex": "a03623"
+            "hex": "a03623",
+            "r": 160,
+            "g": 54,
+            "b": 35
         },
         {
             "color": "sage",
-            "hex": "87ae73"
+            "hex": "87ae73",
+            "r": 135,
+            "g": 174,
+            "b": 115
         },
         {
             "color": "grey green",
-            "hex": "789b73"
+            "hex": "789b73",
+            "r": 120,
+            "g": 155,
+            "b": 115
         },
         {
             "color": "white",
-            "hex": "ffffff"
+            "hex": "ffffff",
+            "r": 255,
+            "g": 255,
+            "b": 255
         },
         {
             "color": "robin's egg blue",
-            "hex": "98eff9"
+            "hex": "98eff9",
+            "r": 152,
+            "g": 239,
+            "b": 249
         },
         {
             "color": "moss green",
-            "hex": "658b38"
+            "hex": "658b38",
+            "r": 101,
+            "g": 139,
+            "b": 56
         },
         {
             "color": "steel blue",
-            "hex": "5a7d9a"
+            "hex": "5a7d9a",
+            "r": 90,
+            "g": 125,
+            "b": 154
         },
         {
             "color": "eggplant",
-            "hex": "380835"
+            "hex": "380835",
+            "r": 56,
+            "g": 8,
+            "b": 53
         },
         {
             "color": "light yellow",
-            "hex": "fffe7a"
+            "hex": "fffe7a",
+            "r": 255,
+            "g": 254,
+            "b": 122
         },
         {
             "color": "leaf green",
-            "hex": "5ca904"
+            "hex": "5ca904",
+            "r": 92,
+            "g": 169,
+            "b": 4
         },
         {
             "color": "light grey",
-            "hex": "d8dcd6"
+            "hex": "d8dcd6",
+            "r": 216,
+            "g": 220,
+            "b": 214
         },
         {
             "color": "puke",
-            "hex": "a5a502"
+            "hex": "a5a502",
+            "r": 165,
+            "g": 165,
+            "b": 2
         },
         {
             "color": "pinkish purple",
-            "hex": "d648d7"
+            "hex": "d648d7",
+            "r": 214,
+            "g": 72,
+            "b": 215
         },
         {
             "color": "sea blue",
-            "hex": "047495"
+            "hex": "047495",
+            "r": 4,
+            "g": 116,
+            "b": 149
         },
         {
             "color": "pale purple",
-            "hex": "b790d4"
+            "hex": "b790d4",
+            "r": 183,
+            "g": 144,
+            "b": 212
         },
         {
             "color": "slate blue",
-            "hex": "5b7c99"
+            "hex": "5b7c99",
+            "r": 91,
+            "g": 124,
+            "b": 153
         },
         {
             "color": "blue grey",
-            "hex": "607c8e"
+            "hex": "607c8e",
+            "r": 96,
+            "g": 124,
+            "b": 142
         },
         {
             "color": "hunter green",
-            "hex": "0b4008"
+            "hex": "0b4008",
+            "r": 11,
+            "g": 64,
+            "b": 8
         },
         {
             "color": "fuchsia",
-            "hex": "ed0dd9"
+            "hex": "ed0dd9",
+            "r": 237,
+            "g": 13,
+            "b": 217
         },
         {
             "color": "crimson",
-            "hex": "8c000f"
+            "hex": "8c000f",
+            "r": 140,
+            "g": 0,
+            "b": 15
         },
         {
             "color": "pale yellow",
-            "hex": "ffff84"
+            "hex": "ffff84",
+            "r": 255,
+            "g": 255,
+            "b": 132
         },
         {
             "color": "ochre",
-            "hex": "bf9005"
+            "hex": "bf9005",
+            "r": 191,
+            "g": 144,
+            "b": 5
         },
         {
             "color": "mustard yellow",
-            "hex": "d2bd0a"
+            "hex": "d2bd0a",
+            "r": 210,
+            "g": 189,
+            "b": 10
         },
         {
             "color": "light red",
-            "hex": "ff474c"
+            "hex": "ff474c",
+            "r": 255,
+            "g": 71,
+            "b": 76
         },
         {
             "color": "cerulean",
-            "hex": "0485d1"
+            "hex": "0485d1",
+            "r": 4,
+            "g": 133,
+            "b": 209
         },
         {
             "color": "pale pink",
-            "hex": "ffcfdc"
+            "hex": "ffcfdc",
+            "r": 255,
+            "g": 207,
+            "b": 220
         },
         {
             "color": "deep blue",
-            "hex": "040273"
+            "hex": "040273",
+            "r": 4,
+            "g": 2,
+            "b": 115
         },
         {
             "color": "rust",
-            "hex": "a83c09"
+            "hex": "a83c09",
+            "r": 168,
+            "g": 60,
+            "b": 9
         },
         {
             "color": "light teal",
-            "hex": "90e4c1"
+            "hex": "90e4c1",
+            "r": 144,
+            "g": 228,
+            "b": 193
         },
         {
             "color": "slate",
-            "hex": "516572"
+            "hex": "516572",
+            "r": 81,
+            "g": 101,
+            "b": 114
         },
         {
             "color": "goldenrod",
-            "hex": "fac205"
+            "hex": "fac205",
+            "r": 250,
+            "g": 194,
+            "b": 5
         },
         {
             "color": "dark yellow",
-            "hex": "d5b60a"
+            "hex": "d5b60a",
+            "r": 213,
+            "g": 182,
+            "b": 10
         },
         {
             "color": "dark grey",
-            "hex": "363737"
+            "hex": "363737",
+            "r": 54,
+            "g": 55,
+            "b": 55
         },
         {
             "color": "army green",
-            "hex": "4b5d16"
+            "hex": "4b5d16",
+            "r": 75,
+            "g": 93,
+            "b": 22
         },
         {
             "color": "grey blue",
-            "hex": "6b8ba4"
+            "hex": "6b8ba4",
+            "r": 107,
+            "g": 139,
+            "b": 164
         },
         {
             "color": "seafoam",
-            "hex": "80f9ad"
+            "hex": "80f9ad",
+            "r": 128,
+            "g": 249,
+            "b": 173
         },
         {
             "color": "puce",
-            "hex": "a57e52"
+            "hex": "a57e52",
+            "r": 165,
+            "g": 126,
+            "b": 82
         },
         {
             "color": "spring green",
-            "hex": "a9f971"
+            "hex": "a9f971",
+            "r": 169,
+            "g": 249,
+            "b": 113
         },
         {
             "color": "dark orange",
-            "hex": "c65102"
+            "hex": "c65102",
+            "r": 198,
+            "g": 81,
+            "b": 2
         },
         {
             "color": "sand",
-            "hex": "e2ca76"
+            "hex": "e2ca76",
+            "r": 226,
+            "g": 202,
+            "b": 118
         },
         {
             "color": "pastel green",
-            "hex": "b0ff9d"
+            "hex": "b0ff9d",
+            "r": 176,
+            "g": 255,
+            "b": 157
         },
         {
             "color": "mint",
-            "hex": "9ffeb0"
+            "hex": "9ffeb0",
+            "r": 159,
+            "g": 254,
+            "b": 176
         },
         {
             "color": "light orange",
-            "hex": "fdaa48"
+            "hex": "fdaa48",
+            "r": 253,
+            "g": 170,
+            "b": 72
         },
         {
             "color": "bright pink",
-            "hex": "fe01b1"
+            "hex": "fe01b1",
+            "r": 254,
+            "g": 1,
+            "b": 177
         },
         {
             "color": "chartreuse",
-            "hex": "c1f80a"
+            "hex": "c1f80a",
+            "r": 193,
+            "g": 248,
+            "b": 10
         },
         {
             "color": "deep purple",
-            "hex": "36013f"
+            "hex": "36013f",
+            "r": 54,
+            "g": 1,
+            "b": 63
         },
         {
             "color": "dark brown",
-            "hex": "341c02"
+            "hex": "341c02",
+            "r": 52,
+            "g": 28,
+            "b": 2
         },
         {
             "color": "taupe",
-            "hex": "b9a281"
+            "hex": "b9a281",
+            "r": 185,
+            "g": 162,
+            "b": 129
         },
         {
             "color": "pea green",
-            "hex": "8eab12"
+            "hex": "8eab12",
+            "r": 142,
+            "g": 171,
+            "b": 18
         },
         {
             "color": "puke green",
-            "hex": "9aae07"
+            "hex": "9aae07",
+            "r": 154,
+            "g": 174,
+            "b": 7
         },
         {
             "color": "kelly green",
-            "hex": "02ab2e"
+            "hex": "02ab2e",
+            "r": 2,
+            "g": 171,
+            "b": 46
         },
         {
             "color": "seafoam green",
-            "hex": "7af9ab"
+            "hex": "7af9ab",
+            "r": 122,
+            "g": 249,
+            "b": 171
         },
         {
             "color": "blue green",
-            "hex": "137e6d"
+            "hex": "137e6d",
+            "r": 19,
+            "g": 126,
+            "b": 109
         },
         {
             "color": "khaki",
-            "hex": "aaa662"
+            "hex": "aaa662",
+            "r": 170,
+            "g": 166,
+            "b": 98
         },
         {
             "color": "burgundy",
-            "hex": "610023"
+            "hex": "610023",
+            "r": 97,
+            "g": 0,
+            "b": 35
         },
         {
             "color": "dark teal",
-            "hex": "014d4e"
+            "hex": "014d4e",
+            "r": 1,
+            "g": 77,
+            "b": 78
         },
         {
             "color": "brick red",
-            "hex": "8f1402"
+            "hex": "8f1402",
+            "r": 143,
+            "g": 20,
+            "b": 2
         },
         {
             "color": "royal purple",
-            "hex": "4b006e"
+            "hex": "4b006e",
+            "r": 75,
+            "g": 0,
+            "b": 110
         },
         {
             "color": "plum",
-            "hex": "580f41"
+            "hex": "580f41",
+            "r": 88,
+            "g": 15,
+            "b": 65
         },
         {
             "color": "mint green",
-            "hex": "8fff9f"
+            "hex": "8fff9f",
+            "r": 143,
+            "g": 255,
+            "b": 159
         },
         {
             "color": "gold",
-            "hex": "dbb40c"
+            "hex": "dbb40c",
+            "r": 219,
+            "g": 180,
+            "b": 12
         },
         {
             "color": "baby blue",
-            "hex": "a2cffe"
+            "hex": "a2cffe",
+            "r": 162,
+            "g": 207,
+            "b": 254
         },
         {
             "color": "yellow green",
-            "hex": "c0fb2d"
+            "hex": "c0fb2d",
+            "r": 192,
+            "g": 251,
+            "b": 45
         },
         {
             "color": "bright purple",
-            "hex": "be03fd"
+            "hex": "be03fd",
+            "r": 190,
+            "g": 3,
+            "b": 253
         },
         {
             "color": "dark red",
-            "hex": "840000"
+            "hex": "840000",
+            "r": 132,
+            "g": 0,
+            "b": 0
         },
         {
             "color": "pale blue",
-            "hex": "d0fefe"
+            "hex": "d0fefe",
+            "r": 208,
+            "g": 254,
+            "b": 254
         },
         {
             "color": "grass green",
-            "hex": "3f9b0b"
+            "hex": "3f9b0b",
+            "r": 63,
+            "g": 155,
+            "b": 11
         },
         {
             "color": "navy",
-            "hex": "01153e"
+            "hex": "01153e",
+            "r": 1,
+            "g": 21,
+            "b": 62
         },
         {
             "color": "aquamarine",
-            "hex": "04d8b2"
+            "hex": "04d8b2",
+            "r": 4,
+            "g": 216,
+            "b": 178
         },
         {
             "color": "burnt orange",
-            "hex": "c04e01"
+            "hex": "c04e01",
+            "r": 192,
+            "g": 78,
+            "b": 1
         },
         {
             "color": "neon green",
-            "hex": "0cff0c"
+            "hex": "0cff0c",
+            "r": 12,
+            "g": 255,
+            "b": 12
         },
         {
             "color": "bright blue",
-            "hex": "0165fc"
+            "hex": "0165fc",
+            "r": 1,
+            "g": 101,
+            "b": 252
         },
         {
             "color": "rose",
-            "hex": "cf6275"
+            "hex": "cf6275",
+            "r": 207,
+            "g": 98,
+            "b": 117
         },
         {
             "color": "light pink",
-            "hex": "ffd1df"
+            "hex": "ffd1df",
+            "r": 255,
+            "g": 209,
+            "b": 223
         },
         {
             "color": "mustard",
-            "hex": "ceb301"
+            "hex": "ceb301",
+            "r": 206,
+            "g": 179,
+            "b": 1
         },
         {
             "color": "indigo",
-            "hex": "380282"
+            "hex": "380282",
+            "r": 56,
+            "g": 2,
+            "b": 130
         },
         {
             "color": "lime",
-            "hex": "aaff32"
+            "hex": "aaff32",
+            "r": 170,
+            "g": 255,
+            "b": 50
         },
         {
             "color": "sea green",
-            "hex": "53fca1"
+            "hex": "53fca1",
+            "r": 83,
+            "g": 252,
+            "b": 161
         },
         {
             "color": "periwinkle",
-            "hex": "8e82fe"
+            "hex": "8e82fe",
+            "r": 142,
+            "g": 130,
+            "b": 254
         },
         {
             "color": "dark pink",
-            "hex": "cb416b"
+            "hex": "cb416b",
+            "r": 203,
+            "g": 65,
+            "b": 107
         },
         {
             "color": "olive green",
-            "hex": "677a04"
+            "hex": "677a04",
+            "r": 103,
+            "g": 122,
+            "b": 4
         },
         {
             "color": "peach",
-            "hex": "ffb07c"
+            "hex": "ffb07c",
+            "r": 255,
+            "g": 176,
+            "b": 124
         },
         {
             "color": "pale green",
-            "hex": "c7fdb5"
+            "hex": "c7fdb5",
+            "r": 199,
+            "g": 253,
+            "b": 181
         },
         {
             "color": "light brown",
-            "hex": "ad8150"
+            "hex": "ad8150",
+            "r": 173,
+            "g": 129,
+            "b": 80
         },
         {
             "color": "hot pink",
-            "hex": "ff028d"
+            "hex": "ff028d",
+            "r": 255,
+            "g": 2,
+            "b": 141
         },
         {
             "color": "black",
-            "hex": "000000"
+            "hex": "000000",
+            "r": 0,
+            "g": 0,
+            "b": 0
         },
         {
             "color": "lilac",
-            "hex": "cea2fd"
+            "hex": "cea2fd",
+            "r": 206,
+            "g": 162,
+            "b": 253
         },
         {
             "color": "navy blue",
-            "hex": "001146"
+            "hex": "001146",
+            "r": 0,
+            "g": 17,
+            "b": 70
         },
         {
             "color": "royal blue",
-            "hex": "0504aa"
+            "hex": "0504aa",
+            "r": 5,
+            "g": 4,
+            "b": 170
         },
         {
             "color": "beige",
-            "hex": "e6daa6"
+            "hex": "e6daa6",
+            "r": 230,
+            "g": 218,
+            "b": 166
         },
         {
             "color": "salmon",
-            "hex": "ff796c"
+            "hex": "ff796c",
+            "r": 255,
+            "g": 121,
+            "b": 108
         },
         {
             "color": "olive",
-            "hex": "6e750e"
+            "hex": "6e750e",
+            "r": 110,
+            "g": 117,
+            "b": 14
         },
         {
             "color": "maroon",
-            "hex": "650021"
+            "hex": "650021",
+            "r": 101,
+            "g": 0,
+            "b": 33
         },
         {
             "color": "bright green",
-            "hex": "01ff07"
+            "hex": "01ff07",
+            "r": 1,
+            "g": 255,
+            "b": 7
         },
         {
             "color": "dark purple",
-            "hex": "35063e"
+            "hex": "35063e",
+            "r": 53,
+            "g": 6,
+            "b": 62
         },
         {
             "color": "mauve",
-            "hex": "ae7181"
+            "hex": "ae7181",
+            "r": 174,
+            "g": 113,
+            "b": 129
         },
         {
             "color": "forest green",
-            "hex": "06470c"
+            "hex": "06470c",
+            "r": 6,
+            "g": 71,
+            "b": 12
         },
         {
             "color": "aqua",
-            "hex": "13eac9"
+            "hex": "13eac9",
+            "r": 19,
+            "g": 234,
+            "b": 201
         },
         {
             "color": "cyan",
-            "hex": "00ffff"
+            "hex": "00ffff",
+            "r": 0,
+            "g": 255,
+            "b": 255
         },
         {
             "color": "tan",
-            "hex": "d1b26f"
+            "hex": "d1b26f",
+            "r": 209,
+            "g": 178,
+            "b": 111
         },
         {
             "color": "dark blue",
-            "hex": "00035b"
+            "hex": "00035b",
+            "r": 0,
+            "g": 3,
+            "b": 91
         },
         {
             "color": "lavender",
-            "hex": "c79fef"
+            "hex": "c79fef",
+            "r": 199,
+            "g": 159,
+            "b": 239
         },
         {
             "color": "turquoise",
-            "hex": "06c2ac"
+            "hex": "06c2ac",
+            "r": 6,
+            "g": 194,
+            "b": 172
         },
         {
             "color": "dark green",
-            "hex": "033500"
+            "hex": "033500",
+            "r": 3,
+            "g": 53,
+            "b": 0
         },
         {
             "color": "violet",
-            "hex": "9a0eea"
+            "hex": "9a0eea",
+            "r": 154,
+            "g": 14,
+            "b": 234
         },
         {
             "color": "light purple",
-            "hex": "bf77f6"
+            "hex": "bf77f6",
+            "r": 191,
+            "g": 119,
+            "b": 246
         },
         {
             "color": "lime green",
-            "hex": "89fe05"
+            "hex": "89fe05",
+            "r": 137,
+            "g": 254,
+            "b": 5
         },
         {
             "color": "grey",
-            "hex": "929591"
+            "hex": "929591",
+            "r": 146,
+            "g": 149,
+            "b": 145
         },
         {
             "color": "sky blue",
-            "hex": "75bbfd"
+            "hex": "75bbfd",
+            "r": 117,
+            "g": 187,
+            "b": 253
         },
         {
             "color": "yellow",
-            "hex": "ffff14"
+            "hex": "ffff14",
+            "r": 255,
+            "g": 255,
+            "b": 20
         },
         {
             "color": "magenta",
-            "hex": "c20078"
+            "hex": "c20078",
+            "r": 194,
+            "g": 0,
+            "b": 120
         },
         {
             "color": "light green",
-            "hex": "96f97b"
+            "hex": "96f97b",
+            "r": 150,
+            "g": 249,
+            "b": 123
         },
         {
             "color": "orange",
-            "hex": "f97306"
+            "hex": "f97306",
+            "r": 249,
+            "g": 115,
+            "b": 6
         },
         {
             "color": "teal",
-            "hex": "029386"
+            "hex": "029386",
+            "r": 2,
+            "g": 147,
+            "b": 134
         },
         {
             "color": "light blue",
-            "hex": "95d0fc"
+            "hex": "95d0fc",
+            "r": 149,
+            "g": 208,
+            "b": 252
         },
         {
             "color": "red",
-            "hex": "e50000"
+            "hex": "e50000",
+            "r": 229,
+            "g": 0,
+            "b": 0
         },
         {
             "color": "brown",
-            "hex": "653700"
+            "hex": "653700",
+            "r": 101,
+            "g": 55,
+            "b": 0
         },
         {
             "color": "pink",
-            "hex": "ff81c0"
+            "hex": "ff81c0",
+            "r": 255,
+            "g": 129,
+            "b": 192
         },
         {
             "color": "blue",
-            "hex": "0343df"
+            "hex": "0343df",
+            "r": 3,
+            "g": 67,
+            "b": 223
         },
         {
             "color": "green",
-            "hex": "15b01a"
+            "hex": "15b01a",
+            "r": 21,
+            "g": 176,
+            "b": 26
         },
         {
             "color": "purple",
-            "hex": "7e1e9c"
+            "hex": "7e1e9c",
+            "r": 126,
+            "g": 30,
+            "b": 156
         }
     ]
 }
